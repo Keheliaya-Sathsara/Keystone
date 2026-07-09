@@ -9,38 +9,17 @@ const config: Config = {
       screens: {
         'xs': '576px', // Custom breakpoint
       },
+      colors: {
+        brand: {
+          royalty: '#0F0E54',
+          blue: '#2000B1',
+          purple: '#8B53FE',
+          white: '#F2F3F4',
+        },
+      },
     },
   },
   plugins: [],
 };
 
 export default config;
-
-
-// import type { Config } from 'tailwindcss';
-
-// const config: Config = {
-//   content: [
-//     "./src/**/*.{html,ts}",
-//   ],
-//   theme: {
-//     extend: {
-//       screens: {
-//         'xs': '576px', // Custom breakpoint
-//       },
-//       colors: {
-//         // You can define your custom colors here
-//         red: {
-//           500: '#ef4444',
-//           600: '#dc2626',
-//           700: '#b91c1c',
-//         }
-//       }
-//     },
-//   },
-//   plugins: [
-//     require('@tailwindcss/forms'),
-//   ],
-// };
-
-// export default config;

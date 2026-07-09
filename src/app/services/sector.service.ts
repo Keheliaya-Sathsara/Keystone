@@ -57,9 +57,9 @@ export class SectorService {
     //   paragraphone:
     //     'Empowering industries with seamless, secure, and technology-driven telecommunication and IT solutions.',
     //   paragraphtwo:
-    //     'KapitalCorp is transforming the digital landscape with AI-powered telecommunications and IT solutions that redefine connectivity, intelligence, and operational efficiency. We support enterprises, governments, and service providers with cutting-edge technologies designed to close the digital divide and fuel scalable, future-ready infrastructure. Our offerings span broadband expansion, enterprise networking, cloud integration, and secure communications, infused with artificial intelligence to power smarter systems. From predictive maintenance and intelligent automation to real-time data analytics and network optimization, we leverage AI to improve service reliability, user experience, and decision-making across platforms.',
+    //     'Keystone Technologies is transforming the digital landscape with AI-powered telecommunications and IT solutions that redefine connectivity, intelligence, and operational efficiency. We support enterprises, governments, and service providers with cutting-edge technologies designed to close the digital divide and fuel scalable, future-ready infrastructure. Our offerings span broadband expansion, enterprise networking, cloud integration, and secure communications, infused with artificial intelligence to power smarter systems. From predictive maintenance and intelligent automation to real-time data analytics and network optimization, we leverage AI to improve service reliability, user experience, and decision-making across platforms.',
     //   paragraphthree:
-    //     'By integrating cloud computing, cybersecurity, and IoT frameworks, KapitalCorp builds robust digital environments that adapt to the evolving demands of modern life. Whether it’s deploying smart infrastructure in cities or enabling reliable connectivity in rural areas, we ensure seamless, secure, and inclusive access. More than just connectivity providers, we are strategic partners in digital transformation, accelerating progress and empowering industries to operate smarter, faster, and more sustainably. With every solution, we aim to reduce complexity, enhance intelligence, and build the technological foundation for a more connected, data-driven future. KapitalCorp’s telecom and IT solutions aren’t just built for today - they’re engineered for what’s next.',
+    //     'By integrating cloud computing, cybersecurity, and IoT frameworks, Keystone builds robust digital environments that adapt to the evolving demands of modern life. Whether it’s deploying smart infrastructure in cities or enabling reliable connectivity in rural areas, we ensure seamless, secure, and inclusive access. More than just connectivity providers, we are strategic partners in digital transformation, accelerating progress and empowering industries to operate smarter, faster, and more sustainably. With every solution, we aim to reduce complexity, enhance intelligence, and build the technological foundation for a more connected, data-driven future. Keystone’s telecom and IT solutions aren’t just built for today - they’re engineered for what’s next.',
     //   headertwo: 'Companies',
     //   headerthree: 'Our Companies in',
     //   headerfour: 'the IT Sector',
@@ -79,9 +79,9 @@ export class SectorService {
       paragraphone:
         'Empowering industries with efficient, scalable, and technology-driven Business Process Outsourcing solutions.',
       paragraphtwo:
-        'At KapitalCorp, we offer a powerful combination of Business Process Outsourcing (BPO) and custom software solutions designed to streamline operations, reduce costs, and accelerate growth for businesses worldwide. Our services are built around flexibility, efficiency, and innovation, enabling organizations to focus on their core competencies while we manage the rest with precision and care. Through our BPO division, we provide end-to-end support in areas such as customer service, technical support, finance, HR, and back-office operations. Every process is optimized using automation, data analytics, and AI to ensure accuracy, speed, and consistency.',
+        'At Keystone Technologies, we offer a powerful combination of Business Process Outsourcing (BPO) and custom software solutions designed to streamline operations, reduce costs, and accelerate growth for businesses worldwide. Our services are built around flexibility, efficiency, and innovation, enabling organizations to focus on their core competencies while we manage the rest with precision and care. Through our BPO division, we provide end-to-end support in areas such as customer service, technical support, finance, HR, and back-office operations. Every process is optimized using automation, data analytics, and AI to ensure accuracy, speed, and consistency.',
       paragraphthree:
-        'Complementing our BPO expertise, our software teams deliver tailored digital solutions from enterprise platforms to mobile applications and SaaS tools, engineered to meet unique business challenges. We focus on user experience, system integration, and scalability, ensuring that our technology grows with your business. Our deep industry knowledge and agile delivery model make us a trusted partner for startups, SMEs, and global enterprises alike. Whether it’s handling high-volume processes or building custom digital ecosystems, KapitalCorp is committed to driving transformation and measurable results. We don’t just outsource and code - we optimize, innovate, and empower businesses to perform at their best.',
+        'Complementing our BPO expertise, our software teams deliver tailored digital solutions from enterprise platforms to mobile applications and SaaS tools, engineered to meet unique business challenges. We focus on user experience, system integration, and scalability, ensuring that our technology grows with your business. Our deep industry knowledge and agile delivery model make us a trusted partner for startups, SMEs, and global enterprises alike. Whether it’s handling high-volume processes or building custom digital ecosystems, Keystone Technologies is committed to driving transformation and measurable results. We don’t just outsource and code - we optimize, innovate, and empower businesses to perform at their best.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in the',
       headerfour: ' Software and BPO Sector',
@@ -92,7 +92,7 @@ export class SectorService {
       id: '3',
       title: 'Trading',
       subtitle:
-        'KapitalCorp operates in the trading industry by offering end-to-end solutions, from importing and selling products to serving as a trusted local agent for global brands.',
+        'Keystone Technologies operates in the trading industry by offering end-to-end solutions, from importing and selling products to serving as a trusted local agent for global brands.',
       banner: 'images/transportation/banner3.png',
       headerone: 'About',
       contentone: 'Connecting Global',
@@ -101,9 +101,9 @@ export class SectorService {
       paragraphone:
         'Empowering traders with intelligent, scalable, and technology-driven market solutions.',
       paragraphtwo:
-        'At KapitalCorp, our trading division bridges international markets with local demand, delivering comprehensive solutions that simplify import, distribution, and sales across diverse product categories. Acting as a reliable local agent for global brands, we ensure smooth market entry and sustained growth by navigating regulatory requirements, supply chain logistics, and customer engagement with expert precision. Our team leverages deep market knowledge and strong partnerships to source high-quality products from trusted manufacturers worldwide. From initial import to final delivery, we manage every step to guarantee efficiency, transparency, and compliance. We work closely with clients to tailor distribution strategies that maximize reach and profitability in local and regional markets. ',
+        'At Keystone Technologies, our trading division bridges international markets with local demand, delivering comprehensive solutions that simplify import, distribution, and sales across diverse product categories. Acting as a reliable local agent for global brands, we ensure smooth market entry and sustained growth by navigating regulatory requirements, supply chain logistics, and customer engagement with expert precision. Our team leverages deep market knowledge and strong partnerships to source high-quality products from trusted manufacturers worldwide. From initial import to final delivery, we manage every step to guarantee efficiency, transparency, and compliance. We work closely with clients to tailor distribution strategies that maximize reach and profitability in local and regional markets. ',
       paragraphthree:
-        'Beyond product sourcing, KapitalCorp’s trading solutions include inventory management, sales forecasting, and after-sales support, empowering businesses to optimize operations and respond swiftly to market dynamics. Whether dealing with consumer goods, industrial equipment, or specialized materials, we bring agility and trust to every transaction. By combining global insights with local expertise, KapitalCorp creates value for partners and customers alike, fostering sustainable trade relationships and driving economic growth. Our commitment is to be the go-to trading partner that delivers quality, reliability, and growth opportunities in an ever-evolving marketplace.',
+        'Beyond product sourcing, Keystone Technologies’ trading solutions include inventory management, sales forecasting, and after-sales support, empowering businesses to optimize operations and respond swiftly to market dynamics. Whether dealing with consumer goods, industrial equipment, or specialized materials, we bring agility and trust to every transaction. By combining global insights with local expertise, Keystone creates value for partners and customers alike, fostering sustainable trade relationships and driving economic growth. Our commitment is to be the go-to trading partner that delivers quality, reliability, and growth opportunities in an ever-evolving marketplace.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Trading Sector',
@@ -122,9 +122,9 @@ export class SectorService {
       contentthree: 'Fuel a Sustainable Future',
       paragraphone: 'A Story: Solar Solutions for a Sustainable Future in Trincomalee',
       paragraphtwo:
-        'At KapitalCorp, we are proud to lead sustainable energy initiatives that empower communities and transform lives. Our flagship Trincomalee project focuses on installing solar panels on the rooftops of rural schools across the region, providing reliable, clean energy to empower education in underserved areas. Access to consistent electricity in these schools means better lighting, extended study hours, and improved use of digital learning tools, enhancing educational outcomes for thousands of children. By harnessing the power of the sun, we reduce dependence on unreliable or costly grid power, cutting energy expenses and carbon emissions simultaneously.',
+        'At Keystone Technologies, we are proud to lead sustainable energy initiatives that empower communities and transform lives. Our flagship Trincomalee project focuses on installing solar panels on the rooftops of rural schools across the region, providing reliable, clean energy to empower education in underserved areas. Access to consistent electricity in these schools means better lighting, extended study hours, and improved use of digital learning tools, enhancing educational outcomes for thousands of children. By harnessing the power of the sun, we reduce dependence on unreliable or costly grid power, cutting energy expenses and carbon emissions simultaneously.',
       paragraphthree:
-        'The Trincomalee solar initiative is more than an energy project; it’s a commitment to environmental stewardship and social impact. Through collaboration with local stakeholders, we ensure installations are tailored to the specific needs of each school, maximizing efficiency and long-term sustainability. Our approach includes maintenance training for local teams, fostering community ownership, and creating green jobs. KapitalCorp’s solar program in Trincomalee exemplifies how renewable energy can be a catalyst for growth, lighting the way for brighter futures while advancing Sri Lanka’s clean energy goals. We are dedicated to expanding such impactful projects, powering not just schools but the wider community toward a greener, more resilient tomorrow.',
+        'The Trincomalee solar initiative is more than an energy project; it’s a commitment to environmental stewardship and social impact. Through collaboration with local stakeholders, we ensure installations are tailored to the specific needs of each school, maximizing efficiency and long-term sustainability. Our approach includes maintenance training for local teams, fostering community ownership, and creating green jobs. Keystone’s solar program in Trincomalee exemplifies how renewable energy can be a catalyst for growth, lighting the way for brighter futures while advancing Sri Lanka’s clean energy goals. We are dedicated to expanding such impactful projects, powering not just schools but the wider community toward a greener, more resilient tomorrow.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Power & Energy Sector',
@@ -144,9 +144,9 @@ export class SectorService {
       paragraphone:
         'Transforming Healthcare Through Digital Innovation and Smart Hospital Solutions',
       paragraphtwo:
-        'KapitalCorp is reshaping the healthcare landscape by introducing smart, technology-driven solutions that enhance hospital efficiency, patient care, and medical administration. In partnership with Thinkcube Systems, we led the successful implementation of a comprehensive Hospital Information Management System (HMS) at the University Hospital of Kothalawala Defense University (UHKDU). This all-in-one platform digitizes core hospital operations, including patient admissions, diagnostics, pharmacy, and records management, enabling seamless coordination between departments and delivering faster, more accurate care to patients. The HMS at UHKDU exemplifies our commitment to advancing healthcare institutions with reliable, scalable digital infrastructure. Real-time data access, streamlined workflows, and reduced administrative burdens empower medical professionals to focus on what matters most: patient outcomes.',
+        'Keystone Technologies is reshaping the healthcare landscape by introducing smart, technology-driven solutions that enhance hospital efficiency, patient care, and medical administration. In partnership with Thinkcube Systems, we led the successful implementation of a comprehensive Hospital Information Management System (HMS) at the University Hospital of Kothalawala Defense University (UHKDU). This all-in-one platform digitizes core hospital operations, including patient admissions, diagnostics, pharmacy, and records management, enabling seamless coordination between departments and delivering faster, more accurate care to patients. The HMS at UHKDU exemplifies our commitment to advancing healthcare institutions with reliable, scalable digital infrastructure. Real-time data access, streamlined workflows, and reduced administrative burdens empower medical professionals to focus on what matters most: patient outcomes.',
       paragraphthree:
-        'Complementing this transformation, MedCubeUSA provides a robust suite of digital health solutions tailored for medical billing and operational efficiency. These platforms automate complex billing cycles, improve claim accuracy, and offer complete visibility across financial workflows, supporting healthcare providers with faster reimbursements and compliance-ready reporting. Together, these solutions mark a new chapter in healthcare innovation. KapitalCorp remains dedicated to equipping hospitals and clinics with future-ready systems that elevate care delivery, improve resource management, and support the growing demands of modern medical environments. Digital health isn’t the future - it’s the present, and we’re building it.',
+        'Complementing this transformation, MedCubeUSA provides a robust suite of digital health solutions tailored for medical billing and operational efficiency. These platforms automate complex billing cycles, improve claim accuracy, and offer complete visibility across financial workflows, supporting healthcare providers with faster reimbursements and compliance-ready reporting. Together, these solutions mark a new chapter in healthcare innovation. Keystone remains dedicated to equipping hospitals and clinics with future-ready systems that elevate care delivery, improve resource management, and support the growing demands of modern medical environments. Digital health isn’t the future - it’s the present, and we’re building it.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Healthcare Sector',
@@ -165,9 +165,9 @@ export class SectorService {
       contentthree: 'that Feed the Future',
       paragraphone: 'Leading Innovation in Agriculture and Sustainable Food',
       paragraphtwo:
-        'KapitalCorp is committed to advancing the agriculture and food sector through sustainable innovation, with a focus on delivering high-performance fertilizer solutions that improve yield, soil health, and long-term food security. As an industry-leading organization in the fertilizer space, we play a vital role in supporting farmers, agri-businesses, and food producers with the tools they need to grow more with less. Our fertilizers are developed using science-backed formulations that balance crop nutrition and environmental responsibility. From small-scale farms to large agricultural operations, we tailor solutions to meet diverse climate conditions, soil types, and crop requirements, ensuring maximum productivity and minimizing ecological impact.',
+        'Keystone Technologies is committed to advancing the agriculture and food sector through sustainable innovation, with a focus on delivering high-performance fertilizer solutions that improve yield, soil health, and long-term food security. As an industry-leading organization in the fertilizer space, we play a vital role in supporting farmers, agri-businesses, and food producers with the tools they need to grow more with less. Our fertilizers are developed using science-backed formulations that balance crop nutrition and environmental responsibility. From small-scale farms to large agricultural operations, we tailor solutions to meet diverse climate conditions, soil types, and crop requirements, ensuring maximum productivity and minimizing ecological impact.',
       paragraphthree:
-        'Beyond fertilizers, we are building a broader ecosystem of support that includes farmer education, precision farming technologies, and sustainable cultivation practices. We partner with agricultural communities to promote smarter, greener methods that protect natural resources while securing food supply chains. In a world facing rising food demand and environmental challenges, KapitalCorp leads with purpose and innovation. We’re not just feeding fields—we’re cultivating resilience, improving livelihoods, and helping shape a more food-secure future. Our mission is rooted in growth: of crops, of communities, and a healthier planet.',
+        'Beyond fertilizers, we are building a broader ecosystem of support that includes farmer education, precision farming technologies, and sustainable cultivation practices. We partner with agricultural communities to promote smarter, greener methods that protect natural resources while securing food supply chains. In a world facing rising food demand and environmental challenges, Keystone leads with purpose and innovation. We’re not just feeding fields—we’re cultivating resilience, improving livelihoods, and helping shape a more food-secure future. Our mission is rooted in growth: of crops, of communities, and a healthier planet.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Agriculture Sector',
@@ -187,7 +187,7 @@ export class SectorService {
       paragraphone:
         'Empowering the water sector with intelligent, scalable, and technology-driven sustainability solutions.',
       paragraphtwo:
-        'Kapital Corp’s Water & Irrigation Division is dedicated to delivering innovative, data-driven solutions that empower businesses, communities, and industries to navigate the evolving water landscape with confidence. We offer a comprehensive suite of water management services, including smart irrigation systems, water conservation strategies, infrastructure optimization, and sustainable resource management—each designed to enhance efficiency, reduce waste, and drive long-term sustainability. Our approach is rooted in technology and expertise, leveraging advanced analytics, AI-driven insights, and strategic execution to ensure resilience, scalability, and responsible water usage in every solution',
+        'Keystone Technologies’ Water & Irrigation Division is dedicated to delivering innovative, data-driven solutions that empower businesses, communities, and industries to navigate the evolving water landscape with confidence. We offer a comprehensive suite of water management services, including smart irrigation systems, water conservation strategies, infrastructure optimization, and sustainable resource management—each designed to enhance efficiency, reduce waste, and drive long-term sustainability. Our approach is rooted in technology and expertise, leveraging advanced analytics, AI-driven insights, and strategic execution to ensure resilience, scalability, and responsible water usage in every solution',
       paragraphthree:
         'With a team of industry specialists, a client-centric philosophy, and a commitment to sustainability, we serve a diverse range of stakeholders—from agricultural enterprises and municipal systems to industrial operations—by optimizing irrigation systems, achieving water conservation efforts, or enhancing water security. We prioritize building lasting partnerships through innovative, adaptable, and future-ready solutions.',
       headertwo: 'Companies',
@@ -210,9 +210,9 @@ export class SectorService {
       paragraphone:
         'Partnering with military, government, academia, and technology-driven solutions for a secure and resilient future.',
       paragraphtwo:
-        'Modern defense requirements span a broad spectrum—from military warfare systems and internal security infrastructure to cyber warfare deterrents. In this evolving landscape, KapitalCorp stands at the forefront, delivering comprehensive solutions that address the multifaceted needs of today’s defense forces. Backed by a seasoned team, KapitalCorp has successfully executed numerous projects, collaborating with globally recognized leaders to deliver logistics networks, advanced support systems, and high-performance offensive tactical gear. Each solution is tailored to meet operational demands while ensuring reliability, efficiency, and technological superiority.',
+        'Modern defense requirements span a broad spectrum—from military warfare systems and internal security infrastructure to cyber warfare deterrents. In this evolving landscape, Keystone Technologies stands at the forefront, delivering comprehensive solutions that address the multifaceted needs of today’s defense forces. Backed by a seasoned team, Keystone has successfully executed numerous projects, collaborating with globally recognized leaders to deliver logistics networks, advanced support systems, and high-performance offensive tactical gear. Each solution is tailored to meet operational demands while ensuring reliability, efficiency, and technological superiority.',
       paragraphthree:
-        'With a commitment to strengthening national security, KapitalCorp offers end-to-end support for defense establishments through Integrated Solutions, expert Consultancy, seamless Project Management & Implementation, and the Supply of World-Class Equipment. Whether it is modernizing infrastructure or deploying advanced defense technologies, KapitalCorp is equipped to deliver state-of-the-art systems that enhance preparedness, resilience, and strategic capability.',
+        'With a commitment to strengthening national security, Keystone Technologies offers end-to-end support for defense establishments through Integrated Solutions, expert Consultancy, seamless Project Management & Implementation, and the Supply of World-Class Equipment. Whether it is modernizing infrastructure or deploying advanced defense technologies, Keystone is equipped to deliver state-of-the-art systems that enhance preparedness, resilience, and strategic capability.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Defence Sector',
@@ -223,7 +223,7 @@ export class SectorService {
       id: '9',
       title: 'Leasure',
       subtitle:
-        'KapitalCorp enhances the leisure industry by developing unique, experience-driven destinations and services that promote relaxation, wellness, and cultural engagement.',
+        'Keystone Technologies enhances the leisure industry by developing unique, experience-driven destinations and services that promote relaxation, wellness, and cultural engagement.',
       banner: '/images/transportation/banner9.jpg',
       headerone: 'About',
       contentone: 'Laser Adventures That',
@@ -232,9 +232,9 @@ export class SectorService {
       paragraphone:
         'Curating World-Class Experiences in Sri Lanka’s Most Evolved Leisure Landscape',
       paragraphtwo:
-        'KapitalCorp is proud to be at the forefront of Sri Lanka’s most evolved leisure industry, where natural beauty, cultural richness, and innovation converge to offer unforgettable experiences. From coastal retreats and jungle escapes to wellness resorts and adventure getaways, our leisure initiatives are designed to celebrate the essence of Sri Lanka while meeting the growing demand for world-class hospitality. Recognizing Sri Lanka as one of the most developed destinations in South Asia for leisure and experiential tourism, we invest in crafting unique offerings that cater to both local and international travelers. Whether it’s through eco-lodges immersed in nature, boutique properties rich in heritage, or curated wellness programs that restore balance and vitality, our approach is centered around quality, authenticity, and sustainability.',
+        'Keystone Technologies is proud to be at the forefront of Sri Lanka’s most evolved leisure industry, where natural beauty, cultural richness, and innovation converge to offer unforgettable experiences. From coastal retreats and jungle escapes to wellness resorts and adventure getaways, our leisure initiatives are designed to celebrate the essence of Sri Lanka while meeting the growing demand for world-class hospitality. Recognizing Sri Lanka as one of the most developed destinations in South Asia for leisure and experiential tourism, we invest in crafting unique offerings that cater to both local and international travelers. Whether it’s through eco-lodges immersed in nature, boutique properties rich in heritage, or curated wellness programs that restore balance and vitality, our approach is centered around quality, authenticity, and sustainability.',
       paragraphthree:
-        'KapitalCorp’s leisure ventures also embrace modern lifestyle trends—integrating wellness, gastronomy, and immersive cultural activities to elevate the guest journey. We collaborate with local communities and artisans to ensure our developments enrich the destination while offering guests a genuine connection to place. In leading the leisure space, KapitalCorp aims not just to build resorts but to create spaces that inspire, rejuvenate, and leave a lasting impact. Our goal is simple: to make Sri Lanka a premier global destination for luxury, relaxation, and meaningful exploration.',
+        'Keystone’s leisure ventures also embrace modern lifestyle trends—integrating wellness, gastronomy, and immersive cultural activities to elevate the guest journey. We collaborate with local communities and artisans to ensure our developments enrich the destination while offering guests a genuine connection to place. In leading the leisure space, Keystone aims not just to build resorts but to create spaces that inspire, rejuvenate, and leave a lasting impact. Our goal is simple: to make Sri Lanka a premier global destination for luxury, relaxation, and meaningful exploration.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in',
       headerfour: 'the Leasure Sector',
@@ -254,9 +254,9 @@ export class SectorService {
       paragraphone:
         'Empowering countries with reliable, efficient, and technologically mobility services.',
       paragraphtwo:
-        'At KapitalCorp, we are redefining the future of mobility by offering smart, adaptable transportation solutions designed to meet the evolving needs of modern cities, businesses, and individuals. Our expertise spans international fare collection systems, end-to-end ticketing solutions, and both public and private transport services, making travel more seamless, efficient, and secure. We help governments and transit authorities modernize their public transportation networks through integrated, cashless payment systems that enhance passenger convenience and reduce operational overhead. Our advanced ticketing platforms ensure real-time tracking, data-driven route optimization, and improved service management for buses, trains, and ferries.',
+        'At Keystone Technologies, we are redefining the future of mobility by offering smart, adaptable transportation solutions designed to meet the evolving needs of modern cities, businesses, and individuals. Our expertise spans international fare collection systems, end-to-end ticketing solutions, and both public and private transport services, making travel more seamless, efficient, and secure. We help governments and transit authorities modernize their public transportation networks through integrated, cashless payment systems that enhance passenger convenience and reduce operational overhead. Our advanced ticketing platforms ensure real-time tracking, data-driven route optimization, and improved service management for buses, trains, and ferries.',
       paragraphthree:
-        'In the private mobility sector, we offer tailored solutions, including professional driver services with well-maintained vehicles, ideal for corporate clients, tourists, and daily commuters seeking comfort, reliability, and efficiency. Whether it is planning intercity logistics or last-mile connections, we combine technology and human expertise to ensure a smooth, connected travel experience. At the core of our transportation initiatives is a commitment to sustainability, safety, and smart infrastructure. With each project, we work closely with local stakeholders and global partners to promote inclusive mobility and scalable systems that benefit both communities and businesses. KapitalCorp moves people, ideas, and industries - one smart solution at a time.',
+        'In the private mobility sector, we offer tailored solutions, including professional driver services with well-maintained vehicles, ideal for corporate clients, tourists, and daily commuters seeking comfort, reliability, and efficiency. Whether it is planning intercity logistics or last-mile connections, we combine technology and human expertise to ensure a smooth, connected travel experience. At the core of our transportation initiatives is a commitment to sustainability, safety, and smart infrastructure. With each project, we work closely with local stakeholders and global partners to promote inclusive mobility and scalable systems that benefit both communities and businesses. Keystone moves people, ideas, and industries - one smart solution at a time.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in ',
       headerfour: 'the Transportation Sector',
@@ -276,9 +276,9 @@ export class SectorService {
       paragraphone:
         'Empowering countries with reliable, efficient, and technologically mobility services.',
       paragraphtwo:
-        'At KapitalCorp, we are redefining the future of mobility by offering smart, adaptable transportation solutions designed to meet the evolving needs of modern cities, businesses, and individuals. Our expertise spans international fare collection systems, end-to-end ticketing solutions, and both public and private transport services, making travel more seamless, efficient, and secure. We help governments and transit authorities modernize their public transportation networks through integrated, cashless payment systems that enhance passenger convenience and reduce operational overhead. Our advanced ticketing platforms ensure real-time tracking, data-driven route optimization, and improved service management for buses, trains, and ferries.',
+        'At Keystone Technologies, we are redefining the future of mobility by offering smart, adaptable transportation solutions designed to meet the evolving needs of modern cities, businesses, and individuals. Our expertise spans international fare collection systems, end-to-end ticketing solutions, and both public and private transport services, making travel more seamless, efficient, and secure. We help governments and transit authorities modernize their public transportation networks through integrated, cashless payment systems that enhance passenger convenience and reduce operational overhead. Our advanced ticketing platforms ensure real-time tracking, data-driven route optimization, and improved service management for buses, trains, and ferries.',
       paragraphthree:
-        'In the private mobility sector, we offer tailored solutions, including professional driver services with well-maintained vehicles, ideal for corporate clients, tourists, and daily commuters seeking comfort, reliability, and efficiency. Whether it is planning intercity logistics or last-mile connections, we combine technology and human expertise to ensure a smooth, connected travel experience. At the core of our transportation initiatives is a commitment to sustainability, safety, and smart infrastructure. With each project, we work closely with local stakeholders and global partners to promote inclusive mobility and scalable systems that benefit both communities and businesses. KapitalCorp moves people, ideas, and industries - one smart solution at a time.',
+        'In the private mobility sector, we offer tailored solutions, including professional driver services with well-maintained vehicles, ideal for corporate clients, tourists, and daily commuters seeking comfort, reliability, and efficiency. Whether it is planning intercity logistics or last-mile connections, we combine technology and human expertise to ensure a smooth, connected travel experience. At the core of our transportation initiatives is a commitment to sustainability, safety, and smart infrastructure. With each project, we work closely with local stakeholders and global partners to promote inclusive mobility and scalable systems that benefit both communities and businesses. Keystone moves people, ideas, and industries - one smart solution at a time.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in ',
       headerfour: 'the Transportation Sector',
@@ -295,8 +295,8 @@ export class SectorService {
       contenttwo: 'that Unite, Inspire,',
       contentthree: 'and Shape Tomorrow',
       paragraphone: 'Strengthen solutions with intelligent solutions, and technology will help enhance our business and market future.',
-      paragraphtwo: 'Kapital Corp’s Broadcasting Sector pioneers transformative media experiences, giving brands, creators, and communities the tools they need to shine in today’s fast-moving media world. Our expertise spans live event production, multi-channel content distribution, advanced broadcast infrastructure, and strategic digital consulting—each designed to amplify voices, extend reach, and spark lasting connections. Leveraging next-gen analytics, AI-driven insights, and flawless execution, we guarantee reliability and scalability for every project.',
-      paragraphthree: 'Guided by a passionate, innovative team, client-first values, and a relentless drive for creative impact, we partner with broadcasters, companies, creatives, and organizers of all kinds. From powering thrilling live events and dynamic branded content to delivering rich viewer experiences, our approach is about building enduring partnerships and future-proof solutions. At Kapital Corp, broadcasting isn\'t just about transmission—it’s about bringing stories to life, connecting people, and shaping a bold, inspired future through technology, creativity, and vision.',
+      paragraphtwo: 'Keystone Technologies’ Broadcasting Sector pioneers transformative media experiences, giving brands, creators, and communities the tools they need to shine in today’s fast-moving media world. Our expertise spans live event production, multi-channel content distribution, advanced broadcast infrastructure, and strategic digital consulting—each designed to amplify voices, extend reach, and spark lasting connections. Leveraging next-gen analytics, AI-driven insights, and flawless execution, we guarantee reliability and scalability for every project.',
+      paragraphthree: 'Guided by a passionate, innovative team, client-first values, and a relentless drive for creative impact, we partner with broadcasters, companies, creatives, and organizers of all kinds. From powering thrilling live events and dynamic branded content to delivering rich viewer experiences, our approach is about building enduring partnerships and future-proof solutions. At Keystone, broadcasting isn\'t just about transmission—it’s about bringing stories to life, connecting people, and shaping a bold, inspired future through technology, creativity, and vision.',
       headertwo: 'Companies',
       headerthree: 'Our Companies in the',
       headerfour: 'Defence Sector',
@@ -377,11 +377,11 @@ export class SectorService {
     {
       id: '4',
       sectorId: '3', // Trading sector
-      cardcontentone: 'Kapital Corp',
+      cardcontentone: 'Keystone Technologies',
       cardcontenttwo: 'Group Company',
-      cardlogo: '/images/transportation/Kapitalcorp.png',
+      cardlogo: '/images/transportation/keystone.png',
       cardparagraphone:
-        'As a dynamic subsidiary of Kapital Corp Pvt Ltd, Kapital Trading specializes in high-impact trading solutions that fuel business growth and market expansion. With a strategic focus on efficiency, reliability, and innovation, we navigate the complexities of global and domestic trade, ensuring seamless transactions and optimized supply chains.',
+        'As a dynamic subsidiary of Keystone Technologies, Keystone Trading specializes in high-impact trading solutions that fuel business growth and market expansion. With a strategic focus on efficiency, reliability, and innovation, we navigate the complexities of global and domestic trade, ensuring seamless transactions and optimized supply chains.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -389,16 +389,16 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/trading.png',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     {
       id: '5',
       sectorId: '4', // Power & Energy sector
-      cardcontentone: 'Kapital ES',
+      cardcontentone: 'Keystone ES',
       cardcontenttwo: 'Energy Solution Comapny',
       cardlogo: '/images/company/energy.png',
       cardparagraphone:
-        'A proud subsidiary of Kapital Corp, Kapital Energy Solutions is a leading provider of innovative and sustainable power and energy solutions. With a commitment to efficiency, reliability, and environmental responsibility, we specialize in delivering cutting-edge energy technologies that drive industries, empower businesses, and illuminate communities.',
+        'A proud subsidiary of Keystone Technologies, Keystone Energy Solutions is a leading provider of innovative and sustainable power and energy solutions. With a commitment to efficiency, reliability, and environmental responsibility, we specialize in delivering cutting-edge energy technologies that drive industries, empower businesses, and illuminate communities.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -406,16 +406,16 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/Energy-solution-banner4.jpg',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     // {
     //   id: '6',
     //   sectorId: '5',
-    //   cardcontentone: 'Kapital Corp',
+    //   cardcontentone: 'Keystone Technologies',
     //   cardcontenttwo: 'Group Company',
-    //   cardlogo: '/images/transportation/Kapitalcorp.png',
+    //   cardlogo: '/images/transportation/keystone.png',
     //   cardparagraphone:
-    //     'A proud subsidiary of Kapital Corp, Kapital Healthcare is dedicated to revolutionizing the healthcare industry with cutting-edge medical solutions, patient-centric services, and world-class healthcare facilities. With a commitment to excellence, innovation, and compassionate care, we strive to enhance patient outcomes and redefine medical standards.',
+    //     'A proud subsidiary of Keystone Technologies, Keystone Healthcare is dedicated to revolutionizing the healthcare industry with cutting-edge medical solutions, patient-centric services, and world-class healthcare facilities. With a commitment to excellence, innovation, and compassionate care, we strive to enhance patient outcomes and redefine medical standards.',
     //   cardiconone: '/images/transportation/FB.png',
     //   cardicontwo: '/images/transportation/Insta.png',
     //   cardiconthree: '/images/transportation/link.png',
@@ -423,7 +423,7 @@ export class SectorService {
     //   cardparagraphtwo: 'Colombo, Sri Lanka',
     //   cardparagraphthree: 'View More',
     //   imageone: '/images/transportation/Healthcare-banner5.jpg',
-    //   link: 'https://www.kapitalcorp.lk/',
+    //   link: 'https://www.keystonetech.lk/',
     // },
     {
       id: '12',
@@ -445,11 +445,11 @@ export class SectorService {
     {
       id: '7',
       sectorId: '6', // Agriculture sector
-      cardcontentone: 'Kapital Corp',
+      cardcontentone: 'Keystone Technologies',
       cardcontenttwo: 'Group Company',
-      cardlogo: '/images/transportation/Kapitalcorp.png',
+      cardlogo: '/images/transportation/keystone.png',
       cardparagraphone:
-        'A proud subsidiary of Kapital Corp, Kapital Agri & Food Solutions is committed to advancing agriculture and ensuring global food security through innovation, sustainability, and efficiency. With a deep-rooted focus on modern farming techniques, smart agri-solutions, and sustainable food production, we bridge the gap between agriculture and future-ready food systems.',
+        'A proud subsidiary of Keystone Technologies, Keystone Agri & Food Solutions is committed to advancing agriculture and ensuring global food security through innovation, sustainability, and efficiency. With a deep-rooted focus on modern farming techniques, smart agri-solutions, and sustainable food production, we bridge the gap between agriculture and future-ready food systems.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -457,16 +457,16 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/agriculture-banner6.jpg',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     {
       id: '8',
       sectorId: '7', // Water & Irrigation sector
-      cardcontentone: 'Kapital Corp',
+      cardcontentone: 'Keystone Technologies',
       cardcontenttwo: 'Group Company',
-      cardlogo: '/images/transportation/Kapitalcorp.png',
+      cardlogo: '/images/transportation/keystone.png',
       cardparagraphone:
-        'A proud subsidiary of Kapital Corp, Kapital Water & Irrigation is dedicated to revolutionizing water management and irrigation solutions with cutting-edge technology and sustainable practices. With a focus on efficiency, conservation, and reliability, we ensure the optimal use of water resources to support agriculture, industries, and communities.',
+        'A proud subsidiary of Keystone Technologies, Keystone Water & Irrigation is dedicated to revolutionizing water management and irrigation solutions with cutting-edge technology and sustainable practices. With a focus on efficiency, conservation, and reliability, we ensure the optimal use of water resources to support agriculture, industries, and communities.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -474,16 +474,16 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/Waterbill-banner7.jpg',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     {
       id: '9',
       sectorId: '8', // Defense sector
-      cardcontentone: 'Kapital Corp',
+      cardcontentone: 'Keystone Technologies',
       cardcontenttwo: 'Group Company',
-      cardlogo: '/images/transportation/Kapitalcorp.png',
+      cardlogo: '/images/transportation/keystone.png',
       cardparagraphone:
-        'Kapital Defence Solutions (KDS), a strategic arm of Kapital Corp, operates at the forefront of advanced defense technologies and integrated security systems. Serving governments, defense agencies, and critical infrastructure sectors, KDS is dedicated to fortifying national resilience through innovation, precision engineering, and mission-critical intelligence.',
+        'Keystone Defence Solutions (KDS), a strategic arm of Keystone Technologies, operates at the forefront of advanced defense technologies and integrated security systems. Serving governments, defense agencies, and critical infrastructure sectors, KDS is dedicated to fortifying national resilience through innovation, precision engineering, and mission-critical intelligence.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -491,16 +491,16 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/Defense.banner8.jpg',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     {
       id: '10',
       sectorId: '9', // Leisure sector
-      cardcontentone: 'Kapital LA',
+      cardcontentone: 'Keystone Leisure & Adventure',
       cardcontenttwo: 'Leaser Company',
       cardlogo: '/images/company/leisure.png',
       cardparagraphone:
-        'A proud subsidiary of Kapital Corp, Kapital Leisure & Adventure redefines travel by blending luxury with exhilarating experiences. Whether it’s serene getaways, adrenaline-fueled adventures, or bespoke leisure retreats, we curate unforgettable journeys that cater to thrill-seekers and relaxation enthusiasts alike.',
+        'A proud subsidiary of Keystone Technologies, Keystone Leisure & Adventure redefines travel by blending luxury with exhilarating experiences. Whether it’s serene getaways, adrenaline-fueled adventures, or bespoke leisure retreats, we curate unforgettable journeys that cater to thrill-seekers and relaxation enthusiasts alike.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -508,7 +508,7 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/Leaser-banner9.jpg',
-      link: 'https://www.kapitalcorp.lk/',
+      link: 'https://www.keystonetech.lk/',
     },
     {
       id: '11',
@@ -517,7 +517,7 @@ export class SectorService {
       cardcontenttwo: 'Transport Company',
       cardlogo: '/images/transportation/EPTT.png',
       cardparagraphone:
-        'Executive Premium Luxury Transport (EPPT), a proud subsidiary of Kapital Corp, specializes in high-end, chauffeur-driven transport services tailored for corporate executives, VIPs, and luxury travelers. With a fleet of premium vehicles and a focus on comfort, safety, and discretion, EPPT delivers a first-class travel experience designed to meet the highest standards of service and sophistication.',
+        'Executive Premium Luxury Transport (EPPT), a proud subsidiary of Keystone Technologies, specializes in high-end, chauffeur-driven transport services tailored for corporate executives, VIPs, and luxury travelers. With a fleet of premium vehicles and a focus on comfort, safety, and discretion, EPPT delivers a first-class travel experience designed to meet the highest standards of service and sophistication.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -534,7 +534,7 @@ export class SectorService {
       cardcontenttwo: 'Software Company',
       cardlogo: '/images/transportation/thinkcubesys.png',
       cardparagraphone:
-        'Executive Premium Luxury Transport (EPPT), a proud subsidiary of Kapital Corp, specializes in high-end, chauffeur-driven transport services tailored for corporate executives, VIPs, and luxury travelers. With a fleet of premium vehicles and a focus on comfort, safety, and discretion, EPPT delivers a first-class travel experience designed to meet the highest standards of service and sophistication.',
+        'Executive Premium Luxury Transport (EPPT), a proud subsidiary of Keystone Technologies, specializes in high-end, chauffeur-driven transport services tailored for corporate executives, VIPs, and luxury travelers. With a fleet of premium vehicles and a focus on comfort, safety, and discretion, EPPT delivers a first-class travel experience designed to meet the highest standards of service and sophistication.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -547,11 +547,11 @@ export class SectorService {
     {
       id: '14',
       sectorId: '12',
-      cardcontentone: 'Kapital Strategic Solutions',
+      cardcontentone: 'Keystone Strategic Holdings',
       cardcontenttwo: 'Defense Solutions Provider',
       cardlogo: '/images/transportation/strategic_holdings.png',
       cardparagraphone:
-        'Kapital Strategic Solutions, part of Kapital Group, provides intelligent defense solutions that strengthen security and protect the future. We deliver exploratory services across People\'s Science Sciences solutions, supporting secure resilience, creativity, and progress through innovative technology and strategic approaches.',
+        'Keystone Strategic Holdings, part of Keystone Technologies, provides intelligent defense solutions that strengthen security and protect the future. We deliver exploratory services across People\'s Science Sciences solutions, supporting secure resilience, creativity, and progress through innovative technology and strategic approaches.',
       cardiconone: '/images/transportation/FB.png',
       cardicontwo: '/images/transportation/Insta.png',
       cardiconthree: '/images/transportation/link.png',
@@ -559,7 +559,7 @@ export class SectorService {
       cardparagraphtwo: 'Colombo, Sri Lanka',
       cardparagraphthree: 'View More',
       imageone: '/images/transportation/broadcasting_two.png',
-      link: 'https://www.kapitagroup.com/',
+      link: 'https://www.keystonetech.lk/',
     }
 
   ];

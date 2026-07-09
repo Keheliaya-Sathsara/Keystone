@@ -17,23 +17,23 @@ export class TermsService {
     const sections: TermsSection[] = [
       {
         title: "Use of Website",
-        content: `<p>This website is intended to provide information about Kapital Group and its subsidiaries. You agree to use this website only for lawful purposes and in a manner that does not infringe the rights of others.</p>`
+        content: `<p>This website is intended to provide information about Keystone Technologies and its subsidiaries. You agree to use this website only for lawful purposes and in a manner that does not infringe the rights of others.</p>`
       },
       {
         title: "Intellectual Property",
-        content: `<p>All content, logos, graphics, and materials on this website are the property of Kapital Group unless otherwise stated. Unauthorized use, reproduction, or distribution of this content is strictly prohibited.</p>`
+        content: `<p>All content, logos, graphics, and materials on this website are the property of Keystone Technologies unless otherwise stated. Unauthorized use, reproduction, or distribution of this content is strictly prohibited.</p>`
       },
       {
         title: "Information Accuracy",
-        content: `<p>While we strive to ensure that all information on this site is accurate and up to date, Kapital Group does not warrant the completeness, reliability, or accuracy of the content. Information may be updated or changed without prior notice.</p>`
+        content: `<p>While we strive to ensure that all information on this site is accurate and up to date, Keystone Technologies does not warrant the completeness, reliability, or accuracy of the content. Information may be updated or changed without prior notice.</p>`
       },
       {
         title: "Third-Party Links",
-        content: `<p>Our website may contain links to third-party websites. Kapital Group is not responsible for the content, policies, or practices of any linked sites. Accessing third-party links is at your own risk.</p>`
+        content: `<p>Our website may contain links to third-party websites. Keystone Technologies is not responsible for the content, policies, or practices of any linked sites. Accessing third-party links is at your own risk.</p>`
       },
       {
         title: "Limitation of Liability",
-        content: `<p>Kapital Group will not be held liable for any damages, losses, or claims arising from the use of this website or reliance on its content.</p>`
+        content: `<p>Keystone Technologies will not be held liable for any damages, losses, or claims arising from the use of this website or reliance on its content.</p>`
       },
       {
         title: "Privacy",
@@ -41,7 +41,7 @@ export class TermsService {
       },
       {
         title: "Changes to Terms",
-        content: `<p>Kapital Group reserves the right to modify or update these Terms and Conditions at any time. Continued use of this website constitutes acceptance of any changes.</p>`
+        content: `<p>Keystone Technologies reserves the right to modify or update these Terms and Conditions at any time. Continued use of this website constitutes acceptance of any changes.</p>`
       },
       {
         title: "Governing Law",
@@ -57,14 +57,14 @@ export class TermsService {
   }
 
   getCompanyName(): Observable<string> {
-    return of('Kapital Group');
+    return of('Keystone Technologies');
   }
 
   getContactEmail(): Observable<string> {
-    return of('info@kapitalgroup.lk');
+    return of('info@keystonetech.lk');
   }
 
   getIntroText(): Observable<string> {
-    return of('Welcome to Kapital Group. By accessing and using our website, you agree to comply with and be bound by the following Terms and Conditions. Please read them carefully before using our services.');
+    return of('Welcome to Keystone Technologies. By accessing and using our website, you agree to comply with and be bound by the following Terms and Conditions. Please read them carefully before using our services.');
   }
 }

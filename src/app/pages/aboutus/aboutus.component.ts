@@ -39,12 +39,12 @@ export class AboutusComponent {
   }
 
     companyMappings = {
-    '1.png': '4', // Kapital Corp
-    '2.png': '3', // Medcube  
-    '3.png': '12', // Medcube USA 
+    '1.png': '4', // Keystone Technologies
+    '2.png': '3', // Medcube
+    '3.png': '12', // Medcube USA
     '4.png': '1', // Thinkcube
-    '5.png': '5', // Kapital Energy Solution
-    '6.png': '10' // Kapital Leisure Adventure
+    '5.png': '5', // Keystone Energy Solutions
+    '6.png': '10' // Keystone Leisure & Adventure
   };
 
   navigateToCompany(imageSrc: string): void {

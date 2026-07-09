@@ -13,11 +13,11 @@
     <div class="text-center md:text-left w-full md:w-1/2 ">
 
       <h1
-        class="text-4xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-white font-bold mb-3 md:mb-4 leading-tight">
+        class="text-4xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-[#0F0E54] font-bold mb-3 md:mb-4 leading-tight">
         {{ company?.title }}
       </h1>
       <p
-        class="text-sm xs:text-base sm:text-md md:text-base lg:text-md text-white max-w-full sm:max-w-md md:max-w-lg lg:max-w-xl mx-auto md:mx-0 leading-relaxed">
+        class="text-sm xs:text-base sm:text-md md:text-base lg:text-md text-[#0F0E54] max-w-full sm:max-w-md md:max-w-lg lg:max-w-xl mx-auto md:mx-0 leading-relaxed">
         {{ company?.subtitle }}
       </p>
     </div>
@@ -29,37 +29,37 @@
   </div>
 </section>
 
-<section class="py-8 sm:py-12 md:py-16 px-4 sm:px-6 md:px-8 lg:px-30 xl:px-30 bg-black">
+<section class="py-8 sm:py-12 md:py-16 px-4 sm:px-6 md:px-8 lg:px-30 xl:px-30 bg-white">
   <!-- First - Company Overview Section -->
   <div class="flex items-center justify-center">
     <div class="w-full">
       <div class="w-full max-w-8xl mx-auto">
         <h2
-          class="text-xl xs:text-2xl sm:text-3xl md:text-[22px] lg:text-[28px] xl:text-[36px] text-white md:text-left mb-4 sm:mb-6 md:mb-8">
+          class="text-xl xs:text-2xl sm:text-3xl md:text-[22px] lg:text-[28px] xl:text-[36px] text-[#0F0E54] md:text-left mb-4 sm:mb-6 md:mb-8">
           {{ company?.headerone }}
         </h2>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 md:gap-10 lg:gap-12">
           <div class="order-1 lg:order-1">
             <h2
-              class="text-2xl xs:text-3xl sm:text-4xl md:text-[35px] lg:text-[40px] xl:text-[45px] leading-tight bg-clip-text text-[transparent] bg-gradient-to-r from-white to-gray-400 font-bold mb-4 sm:mb-6 md:text-left">
+              class="text-2xl xs:text-3xl sm:text-4xl md:text-[35px] lg:text-[40px] xl:text-[45px] leading-tight bg-clip-text text-[transparent] bg-gradient-to-r from-[#0F0E54] to-[#8B53FE] font-bold mb-4 sm:mb-6 md:text-left">
               {{ company?.contentone }} <br class="hidden sm:block" />
               {{ company?.contenttwo }} <br class="hidden sm:block" />
               {{ company?.contentthree }}
             </h2>
 
             <p
-              class="text-sm xs:text-base sm:text-lg md:text-base lg:text-lg text-[#9CA3AF] mb-6 sm:mb-8 md:text-left leading-relaxed">
+              class="text-sm xs:text-base sm:text-lg md:text-base lg:text-lg text-[#4B5563] mb-6 sm:mb-8 md:text-left leading-relaxed">
               {{ company?.paragraphone }}
             </p>
 
             <div class="flex md:justify-start">
               <a [href]="company?.link" target="_blank" rel="noopener noreferrer" class="inline-block">
                 <button
-                  class="w-full xs:w-auto min-w-[200px] py-2.5 sm:py-3 px-6 sm:px-8 border border-[#404040] hover:border-[#606060] text-white text-sm sm:text-base rounded-full hover:scale-105 hover:bg-[#1a1a1a] transition-all duration-300 flex items-center justify-center gap-2 sm:gap-3 cursor-pointer">
+                  class="w-full xs:w-auto min-w-[200px] py-2.5 sm:py-3 px-6 sm:px-8 border border-[#d1d5db] hover:border-[#9ca3af] text-black text-sm sm:text-base rounded-full hover:scale-105 hover:bg-[#f3f4f6] transition-all duration-300 flex items-center justify-center gap-2 sm:gap-3 cursor-pointer">
                   {{ company?.cardparagraphthree }}
                   <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
-                    fill="#FFFFFF">
+                    fill="#000000">
                     <path d="m216-160-56-56 464-464H360v-80h400v400h-80v-264L216-160Z" />
                   </svg>
                 </button>
@@ -68,7 +68,7 @@
           </div>
 
           <div
-            class="order-2 lg:order-2 text-gray-300 text-sm xs:text-base sm:text-lg md:text-base lg:text-lg space-y-4 sm:space-y-6">
+            class="order-2 lg:order-2 text-[#4B5563] text-sm xs:text-base sm:text-lg md:text-base lg:text-lg space-y-4 sm:space-y-6">
             <p class="leading-relaxed md:text-left lg:text-justify">{{ company?.paragraphtwo }}</p>
             <p class="leading-relaxed md:text-left lg:text-justify">{{ company?.paragraphthree }}</p>
           </div>
@@ -122,16 +122,16 @@
     <div class="grid grid-cols-1 gap-6 mb-8 sm:mb-12">
       <div class="space-y-6">
         <p
-          class="text-xl xs:text-2xl sm:text-3xl md:text-[22px] lg:text-[28px] xl:text-[36px] text-white md:text-left mb-4 sm:mb-6 md:mb-8">
+          class="text-xl xs:text-2xl sm:text-3xl md:text-[22px] lg:text-[28px] xl:text-[36px] text-[#0F0E54] md:text-left mb-4 sm:mb-6 md:mb-8">
           {{ company?.contact?.sectionLabel || 'Contact' }}
         </p>
         <h1
-          class="text-2xl xs:text-3xl sm:text-4xl md:text-[35px] lg:text-[40px] xl:text-[45px] leading-tight bg-clip-text text-[transparent] bg-gradient-to-r from-white to-gray-400 font-bold mb-4 sm:mb-6 md:text-left">
+          class="text-2xl xs:text-3xl sm:text-4xl md:text-[35px] lg:text-[40px] xl:text-[45px] leading-tight bg-clip-text text-[transparent] bg-gradient-to-r from-[#0F0E54] to-[#8B53FE] font-bold mb-4 sm:mb-6 md:text-left">
           {{ company?.contact?.title || 'Partner with a Team' }}<br />
-          <span class="text-white">{{ company?.contact?.subtitle || 'That Powers Innovation' }}</span>
+          <span class="text-[#0F0E54]">{{ company?.contact?.subtitle || 'That Powers Innovation' }}</span>
         </h1>
         <p
-          class="text-sm xs:text-base sm:text-lg md:text-base lg:text-lg text-[#9CA3AF] mb-6 sm:mb-8 md:text-left leading-relaxed">
+          class="text-sm xs:text-base sm:text-lg md:text-base lg:text-lg text-[#4B5563] mb-6 sm:mb-8 md:text-left leading-relaxed">
           {{ company?.contact?.description || "From concept to launch, we're here to support your next big idea." }}
         </p>
       </div>
@@ -176,7 +176,7 @@
               </div>
               <div class="flex-1 min-w-0">
                 <p class="text-xs lg:text-sm text-gray-400 uppercase tracking-wider font-medium mb-1 lg:mb-2">Mobile</p>
-                <p class="text-lg lg:text-xl text-white font-semibold break-all">
+                <p class="text-lg lg:text-xl text-[#0F0E54] font-semibold break-all">
                   {{ company?.contact?.phone }}
                 </p>
               </div>
@@ -202,7 +202,7 @@
               </div>
               <div class="flex-1 min-w-0">
                 <p class="text-xs lg:text-sm text-gray-400 uppercase tracking-wider font-medium mb-1 lg:mb-2">Email</p>
-                <p class="text-lg lg:text-xl text-white font-semibold break-all">
+                <p class="text-lg lg:text-xl text-[#0F0E54] font-semibold break-all">
                   {{ company?.contact?.email }}
                 </p>
               </div>
@@ -230,7 +230,7 @@
                 <p class="text-xs lg:text-sm text-gray-400 uppercase tracking-wider font-medium mb-1 lg:mb-2">
                   Address
                 </p>
-                <p class="text-lg lg:text-xl text-white font-semibold break-all">
+                <p class="text-lg lg:text-xl text-[#0F0E54] font-semibold break-all">
                   {{ company?.contact?.address }}
                 </p>
               </div>

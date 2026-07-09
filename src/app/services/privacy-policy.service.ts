@@ -17,7 +17,7 @@ export class PrivacyPolicyService {
     const sections: PrivacyPolicySection[] = [
       {
         title: 'Introduction',
-        content: '<p>At Kapital Group, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard the data you provide when using our website.</p>'
+        content: '<p>At Keystone Technologies, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard the data you provide when using our website.</p>'
       },
       {
         title: '1. Information We Collect',
@@ -35,7 +35,7 @@ export class PrivacyPolicyService {
           <ul>
             <li>1. Respond to your inquiries and provide requested services.</li>
             <li>2. Improve our website, services, and user experience.</li>
-            <li>3. Share updates, news, and relevant information about Kapital Group (only if you consent).</li>
+            <li>3. Share updates, news, and relevant information about Keystone Technologies (only if you consent).</li>
             <li>4. Comply with legal and regulatory requirements.</li>
           </ul>`
       },
@@ -49,11 +49,11 @@ export class PrivacyPolicyService {
       },
       {
         title: '5. Sharing of Information',
-        content: '<p>Kapital Group does not sell, rent, or trade your personal information to third parties. We may share information only with trusted service providers or if required by law.</p>'
+        content: '<p>Keystone Technologies does not sell, rent, or trade your personal information to third parties. We may share information only with trusted service providers or if required by law.</p>'
       },
       {
         title: '6. Third-Party Links',
-        content: '<p>Our website may contain links to external websites. Kapital Group is not responsible for the privacy practices or content of those sites.</p>'
+        content: '<p>Our website may contain links to external websites. Keystone Technologies is not responsible for the privacy practices or content of those sites.</p>'
       },
       {
         title: '7. Your Rights',
@@ -67,7 +67,7 @@ export class PrivacyPolicyService {
       },
       {
         title: '8. Changes to Privacy Policy',
-        content: '<p>Kapital Group reserves the right to update or modify this Privacy Policy when necessary. Updates will be posted on this page with the revised date.</p>'
+        content: '<p>Keystone Technologies reserves the right to update or modify this Privacy Policy when necessary. Updates will be posted on this page with the revised date.</p>'
       }
     ];
 
@@ -85,14 +85,14 @@ export class PrivacyPolicyService {
   }
 
   getCompanyName(): Observable<string> {
-    return of('Kapital Group');
+    return of('Keystone Technologies');
   }
 
   getContactEmail(): Observable<string> {
-    return of('info@kapitalcorp.lk');
+    return of('info@keystonetech.lk');
   }
 
   getIntroText(): Observable<string> {
-    return of('At Kapital Group, we value your privacy and are committed to protecting your personal information.');
+    return of('At Keystone Technologies, we value your privacy and are committed to protecting your personal information.');
   }
 }

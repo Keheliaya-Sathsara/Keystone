@@ -356,28 +356,28 @@ export class ArticlesComponent implements OnInit {
         heading: 'WIN WAY: Pioneering a Digital Lottery Revolution in Sri Lanka',
         avatar: '/images/news/articles/avatarone.png',
         author: {
-          detailone: 'By Kapital Corp',
+          detailone: 'By Keystone Technologies',
           detailtwo: 'July, 2025',
         },
         contentone:
-          'The unveiling of WIN WAY signaled more than just a technological upgrade; it marked the arrival of a transformative era for Sri Lanka\'s national lottery system. As the country\'s first fully integrated digital lottery platform, WIN WAY is the result of a significant collaboration between Kapital Corp, Thinkcube Systems, and the critically important Cubematrix (Pvt) Ltd.',
+          'The unveiling of WIN WAY signaled more than just a technological upgrade; it marked the arrival of a transformative era for Sri Lanka\'s national lottery system. As the country\'s first fully integrated digital lottery platform, WIN WAY is the result of a significant collaboration between Keystone Technologies, Thinkcube Systems, and the critically important Cubematrix (Pvt) Ltd.',
         contenttwo:
           'WIN WAY\'s key innovation lies in its radical transition from traditional, paper-based lottery operations to a digital-first model. By empowering the National Lotteries Board (NLB) to sell tickets online and through mobile applications, WIN WAY extends access to previously underserved groups, particularly rural communities and digital-native youth.',
         contentthree:
-          'Kapital Corp spearheaded project management, while Cubematrix (Pvt) Ltd played a central role as one of Sri Lanka\'s leading software development partners. Cubematrix contributed its expertise in systems integration and digital solutions, helping deliver a platform known for its resilience, security, and scalability.',
+          'Keystone Technologies spearheaded project management, while Cubematrix (Pvt) Ltd played a central role as one of Sri Lanka\'s leading software development partners. Cubematrix contributed its expertise in systems integration and digital solutions, helping deliver a platform known for its resilience, security, and scalability.',
         quote:
           'WIN WAY represents the collaborative vision of public and private stakeholders to combine technological innovation with responsible gaming. We are proud to lead a project that not only provides convenience but also supports national development goals and social welfare.',
         smallheading: "WIN WAY's Key Benefits",
         smallcontent:
           'Minimized paper wastage and reduced operational costs. Instant winner notifications, resolving long-standing issues around prize claims and unclaimed winnings. Enhanced transparency and public trust through strict regulation and robust compliance. Streamlined processes, enabling integration with the National Social Welfare Fund to amplify the social impact of lottery proceeds.',
-        quoteauthor: 'Alex Lovell, Chairman, Kapital Group',
+        quoteauthor: 'Alex Lovell, Chairman, Keystone Technologies',
         contenfour:
           'The platform\'s positive early results have shown rapidly expanding participation, particularly among young and tech-savvy Sri Lankans. This broadened engagement not only boosts fundraising for social initiatives but also provides valuable insights for future public policy decisions.',
-        headertwo: 'The Role of Cubematrix and Kapital Corp',
+        headertwo: 'The Role of Cubematrix and Keystone Technologies',
         imagesaas: '/images/company/lotterybanner.jpg',
         imageby: 'Image courtesy of TechVision Labs',
         contentfive:
-          'Cubematrix (Pvt) Ltd and Kapital Corp worked closely together to build the technology behind the WIN WAY platform. While Kapital Corp led the project\'s overall vision and made sure everything met national standards, Cubematrix used its expertise in software development and security to create a reliable and easy-to-use digital lottery system.',
+          'Cubematrix (Pvt) Ltd and Keystone Technologies worked closely together to build the technology behind the WIN WAY platform. While Keystone Technologies led the project\'s overall vision and made sure everything met national standards, Cubematrix used its expertise in software development and security to create a reliable and easy-to-use digital lottery system.',
       }
     };
 

@@ -4,7 +4,7 @@ const nodemailer = require('nodemailer');
 dotenv.config();
 
 async function testGmailConnection() {
-  console.log('🔍 Gmail Connection Test - Kapital Corp');
+  console.log('🔍 Gmail Connection Test - Keystone Technologies');
   console.log('=======================================');
   console.log(`📧 Testing email: ${process.env.EMAIL_USER}`);
   console.log(`🔑 Password length: ${process.env.EMAIL_PASSWORD?.length || 0} characters`);
@@ -45,13 +45,13 @@ async function testGmailConnection() {
     
     console.log('📤 Sending test email...');
     const testEmailContent = {
-      from: `"Kapital Corp Test" <${process.env.EMAIL_USER}>`,
+      from: `"Keystone Technologies Test" <${process.env.EMAIL_USER}>`,
       to: process.env.NOTIFICATION_EMAIL,
-      subject: '✅ Gmail Configuration Test - Kapital Corp',
+      subject: '✅ Gmail Configuration Test - Keystone Technologies',
       text: `Gmail configuration test successful!
-      
+
 Timestamp: ${new Date().toLocaleString()}
-Server: Kapital Corp Backend
+Server: Keystone Technologies Backend
 Status: All systems operational
 
 If you receive this email, your Gmail App Password is working correctly.`,
@@ -59,7 +59,7 @@ If you receive this email, your Gmail App Password is working correctly.`,
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
           <div style="background-color: #EA0029; color: white; padding: 20px; text-align: center;">
             <h1 style="margin: 0;">✅ Gmail Test Successful</h1>
-            <p style="margin: 5px 0 0 0;">Kapital Corp Server</p>
+            <p style="margin: 5px 0 0 0;">Keystone Technologies Server</p>
           </div>
           <div style="padding: 20px; background-color: #f9f9f9;">
             <h2 style="color: #EA0029;">Configuration Test Results</h2>
@@ -86,7 +86,7 @@ If you receive this email, your Gmail App Password is working correctly.`,
             </div>
           </div>
           <div style="background-color: #333; color: #ccc; padding: 15px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">This is an automated test email from the Kapital Corp server.</p>
+            <p style="margin: 0;">This is an automated test email from the Keystone Technologies server.</p>
           </div>
         </div>
       `
@@ -110,11 +110,11 @@ If you receive this email, your Gmail App Password is working correctly.`,
       console.log('Your Gmail App Password is not working. Here\'s how to fix it:');
       console.log('');
       console.log('1. Go to: https://myaccount.google.com/apppasswords');
-      console.log('2. Delete any existing "Kapital Corp" or "Mail" app passwords');
+      console.log('2. Delete any existing "Keystone Technologies" or "Mail" app passwords');
       console.log('3. Create a NEW App Password:');
       console.log('   - Select app: "Mail"');
       console.log('   - Select device: "Other (custom name)"');
-      console.log('   - Enter name: "Kapital Corp Server"');
+      console.log('   - Enter name: "Keystone Technologies Server"');
       console.log('4. Copy the 16-character password (like: "abcd efgh ijkl mnop")');
       console.log('5. Remove ALL spaces: "abcd efgh ijkl mnop" → "abcdefghijklmnop"');
       console.log('6. Update your .env file with: EMAIL_PASSWORD=abcdefghijklmnop');

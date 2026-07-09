@@ -1,8 +1,8 @@
 
 {
-  "name": "kapitalcorp-backend",
+  "name": "keystone-backend",
   "version": "1.0.0",
-  "description": "Backend for Kapital Corp website",
+  "description": "Backend for Keystone Technologies website",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

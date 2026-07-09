@@ -133,16 +133,16 @@ async function testEmailConfig() {
     if (process.env.EMAIL_TEST_MODE === 'true' && process.env.NODE_ENV !== 'production') {
       try {
         const info = await transporter.sendMail({
-          from: `"Kapital Corp" <info@kapital.lk>`,
+          from: `"Keystone Technologies" <info@keystonetech.lk>`,
           to: process.env.NOTIFICATION_EMAIL,
-          subject: 'Email System Test - Kapital Corp',
+          subject: 'Email System Test - Keystone Technologies',
           text: 'This is a test email to verify the email configuration is working correctly.',
           html: `
             <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
               <h2 style="color: #EA0029;">Email System Test</h2>
               <p>This is a test email to verify the email configuration is working correctly.</p>
               <p><strong>Timestamp:</strong> ${new Date().toLocaleString()}</p>
-              <p><em>This email was sent from the Kapital Corp server startup process.</em></p>
+              <p><em>This email was sent from the Keystone Technologies server startup process.</em></p>
             </div>
           `,
         });
@@ -289,16 +289,16 @@ app.post('/contact', async (req, res) => {
     const transporter = createTransporter();
 
     // Admin notification email
-    const adminEmailSubject = `New Inquiry - ${fullName} - Kapital Corp`;
+    const adminEmailSubject = `New Inquiry - ${fullName} - Keystone Technologies`;
     const adminMailOptions = {
-      from: `"Kapital Corp" <info@kapital.lk>`,
+      from: `"Keystone Technologies" <info@keystonetech.lk>`,
       to: process.env.NOTIFICATION_EMAIL,
       subject: adminEmailSubject,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; background-color: #ffffff;">
           <div style="background-color: #EA0029; color: white; padding: 20px; text-align: center;">
             <h1 style="margin: 0; font-size: 24px;">New Contact Form Submission</h1>
-            <p style="margin: 5px 0 0 0; opacity: 0.9;">Kapital Corp Website</p>
+            <p style="margin: 5px 0 0 0; opacity: 0.9;">Keystone Technologies Website</p>
           </div>
           
           <div style="padding: 30px 20px; background-color: #f9f9f9;">
@@ -311,7 +311,7 @@ app.post('/contact', async (req, res) => {
           </div>
           
           <div style="background-color: #333; color: #ccc; padding: 15px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">This is an automated notification from the Kapital Corp website contact form.</p>
+            <p style="margin: 0;">This is an automated notification from the Keystone Technologies website contact form.</p>
             <p style="margin: 5px 0 0 0;">Submission ID: #${insertId} | ${formattedDate}</p>
           </div>
         </div>
@@ -319,9 +319,9 @@ app.post('/contact', async (req, res) => {
     };
 
     // User confirmation email
-    const userEmailSubject = 'Thank you for contacting Kapital Corp';
+    const userEmailSubject = 'Thank you for contacting Keystone Technologies';
     const userMailOptions = {
-      from: `"Kapital Corp" <info@kapital.lk>`,
+      from: `"Keystone Technologies" <info@keystonetech.lk>`,
       to: email,
       subject: userEmailSubject,
       html: `
@@ -333,7 +333,7 @@ app.post('/contact', async (req, res) => {
           
           <div style="padding: 30px 20px; background-color: #f9f9f9;">
             <p style="font-size: 16px; margin-bottom: 20px;">Dear ${fullName},</p>
-            <p style="margin-bottom: 20px;">Thank you for contacting Kapital Corp. We have received your message and will get back to you within 24-48 hours. Here's a summary of your submission:</p>
+            <p style="margin-bottom: 20px;">Thank you for contacting Keystone Technologies. We have received your message and will get back to you within 24-48 hours. Here's a summary of your submission:</p>
             
             ${createFormDataTable(emailData)}
             
@@ -349,11 +349,11 @@ app.post('/contact', async (req, res) => {
           
           <div style="padding: 20px; text-align: center;">
             <p style="margin: 0 0 10px 0;">Best regards,</p>
-            <p style="margin: 0; font-weight: bold; color: #EA0029;">The Kapital Corp Team</p>
+            <p style="margin: 0; font-weight: bold; color: #EA0029;">The Keystone Technologies Team</p>
           </div>
           
           <div style="background-color: #333; color: #ccc; padding: 15px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">This is an automated confirmation email from Kapital Corp.</p>
+            <p style="margin: 0;">This is an automated confirmation email from Keystone Technologies.</p>
             <p style="margin: 5px 0 0 0;">If you didn't submit this form, please contact us immediately.</p>
           </div>
         </div>
@@ -501,7 +501,7 @@ process.on('SIGINT', async () => {
 
 // Start server
 async function startServer() {
-  console.log('🚀 Starting Kapital Corp Server...');
+  console.log('🚀 Starting Keystone Technologies Server...');
   console.log('=====================================');
 
   const dbConnected = await testDbConnection();

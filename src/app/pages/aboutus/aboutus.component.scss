@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
 
 .home {
-    // background: radial-gradient(ellipse at top, #ea0a2a80 -11%, #00000000 50%);
+    background: radial-gradient(40.55% 80% at 50% 0%, rgba(139, 83, 254, 0.16) 0%, rgba(242, 243, 244, 0.00) 80%);
     height: 100vh;
     width: 100%;
-    background-color: black;
+    background-color: #F2F3F4; // was black
   }
   
   .cmb {
@@ -23,20 +23,20 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(242, 243, 244, 0.55); // was rgba(0,0,0,0.7) — light scrim instead of dark
   }
-  
+
   .gradient-header {
     font-weight: bold;
-    background: linear-gradient(to right, #ffffff, #71717a);
+    background: linear-gradient(to right, #0F0E54, #8B53FE); // was #ffffff -> #71717a
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
-  
+
   .gradient-text {
     font-size: 20px;
-    color: #a1a1aa;
+    color: #2000B1; // was #a1a1aa
   }
   
 
@@ -64,7 +64,7 @@
     transition: all 0.5s ease;
   
     &:hover {
-      background: radial-gradient(ellipse at top, rgba(234, 10, 42, 0.5) -11%, rgba(0, 0, 0, 0) 50%);
+      background: radial-gradient(ellipse at top, rgba(139, 83, 254, 0.5) -11%, rgba(0, 0, 0, 0) 50%);
       transition: all 0.5s ease;
     }
   }
@@ -79,7 +79,7 @@
       right: -10px;
       bottom: -10px;
       border-radius: inherit;
-      background: radial-gradient(ellipse at top, #ea0a2a80 -11%, #00000000 50%);
+      background: radial-gradient(ellipse at top, #8B53FE80 -11%, #00000000 50%);
       z-index: 0;
       opacity: 0.8;
       transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;

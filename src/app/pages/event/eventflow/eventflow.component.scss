@@ -1,8 +1,8 @@
 .home {
-  background: radial-gradient(ellipse at top, #ea0a2a80 -11%, #00000000 50%);
+  background: radial-gradient(40.55% 80% at 50% 0%, rgba(139, 83, 254, 0.16) 0%, rgba(242, 243, 244, 0.00) 80%);
   // height: 100vh;
   width: 100%;
-  background-color: black;
+  background-color: #F2F3F4;
 }
 
 .cmb {
@@ -21,12 +21,12 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(0, 0, 0);
+  background-color: rgba(242, 243, 244, 0.55);
 }
 
 .gradient-header {
   font-weight: bold;
-  background: linear-gradient(to right, #ffffff, #71717a);
+  background: linear-gradient(to right, #0F0E54, #8B53FE);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -34,5 +34,5 @@
 
 .gradient-text {
   font-size: 20px;
-  color: #a1a1aa;
+  color: #2000B1;
 }

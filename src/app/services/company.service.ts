@@ -126,7 +126,7 @@ export class CompanyService {
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'grouphr@kapital.lk',
+        email: 'hr@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -165,30 +165,30 @@ export class CompanyService {
     {
       id: '4',
       logo: '/images/company/company_6.png',
-      title: 'Kapital Corp ',
+      title: 'Keystone Technologies ',
       subtitle:
-        'KapitalCorp is a multidisciplinary enterprise delivering innovative, future-focused solutions across industries to drive growth, efficiency, and sustainable impact.',
+        'Keystone Technologies is a multidisciplinary enterprise delivering innovative, future-focused solutions across industries to drive growth, efficiency, and sustainable impact.',
       banner: '/images/transportation/Trading_banner.jpg',
       headerone: 'About',
       contentone: 'Shaping Tomorrow',
       contenttwo: 'with Smart, Scalable',
       contentthree: 'Solutions Across Industries ',
       paragraphone:
-        'KapitalCorp empowers businesses and communities through innovative strategies, advanced technology, and a commitment to long-term, sustainable progress.',
+        'Keystone Technologies empowers businesses and communities through innovative strategies, advanced technology, and a commitment to long-term, sustainable progress.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'KapitalCorp is a multidisciplinary organization dedicated to delivering innovative, scalable solutions across key industries including transportation, technology, energy, healthcare, trading, and more. With a strong foundation in strategic thinking and digital transformation, we partner with businesses and governments to address complex challenges and unlock long-term growth.',
+        'Keystone Technologies is a multidisciplinary organization dedicated to delivering innovative, scalable solutions across key industries including transportation, technology, energy, healthcare, trading, and more. With a strong foundation in strategic thinking and digital transformation, we partner with businesses and governments to address complex challenges and unlock long-term growth.',
       paragraphthree:
-        'Our diverse portfolio includes smart mobility systems, AI-driven software, sustainable energy initiatives, and digital health platforms—each tailored to meet the unique demands of the markets we serve. We combine global insight with local expertise to create solutions that are efficient, future-ready, and socially impactful. At KapitalCorp, we believe in progress with purpose—driving innovation while prioritizing sustainability, inclusivity, and resilience. Whether empowering communities or optimizing enterprise operations, our mission is clear: to shape smarter, more connected futures through transformative thinking and technology.',
+        'Our diverse portfolio includes smart mobility systems, AI-driven software, sustainable energy initiatives, and digital health platforms—each tailored to meet the unique demands of the markets we serve. We combine global insight with local expertise to create solutions that are efficient, future-ready, and socially impactful. At Keystone, we believe in progress with purpose—driving innovation while prioritizing sustainability, inclusivity, and resilience. Whether empowering communities or optimizing enterprise operations, our mission is clear: to shape smarter, more connected futures through transformative thinking and technology.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -196,30 +196,30 @@ export class CompanyService {
     {
       id: '5',
       logo: '/images/company/company_7.png',
-      title: 'Kapital Energy Solution ',
+      title: 'Keystone Energy Solutions ',
       subtitle:
-        'Kapital Energy Solutions delivers smart, sustainable power systems that drive energy efficiency, reduce environmental impact, and empower communities through innovative renewable technologies.',
+        'Keystone Energy Solutions delivers smart, sustainable power systems that drive energy efficiency, reduce environmental impact, and empower communities through innovative renewable technologies.',
       banner: '/images/transportation/Energy-solution-banner4.jpg',
       headerone: 'About',
       contentone: 'Powering Progress',
       contenttwo: 'with Smarter,',
       contentthree: 'Greener Energy Solutions',
       paragraphone:
-        'Kapital Energy Solutions provides innovative, sustainable power systems designed to improve efficiency, lower emissions, and support long-term energy resilience.',
+        'Keystone Energy Solutions provides innovative, sustainable power systems designed to improve efficiency, lower emissions, and support long-term energy resilience.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Energy Solutions is at the forefront of driving clean, reliable, and future-ready energy systems. Our mission is to accelerate the transition to sustainable power through innovative technologies that reduce environmental impact while meeting the growing energy demands of communities and industries.',
+        'Keystone Energy Solutions is at the forefront of driving clean, reliable, and future-ready energy systems. Our mission is to accelerate the transition to sustainable power through innovative technologies that reduce environmental impact while meeting the growing energy demands of communities and industries.',
       paragraphthree:
-        'From rooftop solar installations and off-grid systems to integrated smart grids and energy storage, we deliver solutions that are both scalable and adaptable. One of our flagship projects includes installing solar panels across rural schools in Trincomalee, providing uninterrupted power for education and community development. We collaborate with public and private sector partners to ensure that every project is technically sound, economically viable, and environmentally responsible. At Kapital Energy Solutions, we believe energy is not just a utility—but a catalyst for progress, equity, and a greener future.',
+        'From rooftop solar installations and off-grid systems to integrated smart grids and energy storage, we deliver solutions that are both scalable and adaptable. One of our flagship projects includes installing solar panels across rural schools in Trincomalee, providing uninterrupted power for education and community development. We collaborate with public and private sector partners to ensure that every project is technically sound, economically viable, and environmentally responsible. At Keystone Energy Solutions, we believe energy is not just a utility—but a catalyst for progress, equity, and a greener future.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalenergy.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -227,7 +227,7 @@ export class CompanyService {
     {
       id: '6',
       logo: '/images/company/company_6.png',
-      title: 'Kapital Corp ',
+      title: 'Keystone Technologies ',
       subtitle:
         'Innovating solutions for efficient infrastructure and seamless logistics, ensuring the smooth movement of goods and people worldwide.',
       banner: '/images/transportation/Trading_banner.jpg',
@@ -238,19 +238,19 @@ export class CompanyService {
       paragraphone:
         'Empowering businesses and educators with cloud-based solutions that solve real-world challenges and scale with your vision.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Corp is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
+        'Keystone Technologies is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
       paragraphthree:
-        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Kapital Corp, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
+        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Keystone Technologies, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -258,7 +258,7 @@ export class CompanyService {
     {
       id: '7',
       logo: '/images/company/company_6.png',
-      title: 'Kapital Corp ',
+      title: 'Keystone Technologies ',
       subtitle:
         'Innovating solutions for efficient infrastructure and seamless logistics, ensuring the smooth movement of goods and people worldwide.',
       banner: '/images/transportation/Trading_banner.jpg',
@@ -269,19 +269,19 @@ export class CompanyService {
       paragraphone:
         'Empowering businesses and educators with cloud-based solutions that solve real-world challenges and scale with your vision.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Corp is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
+        'Keystone Technologies is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
       paragraphthree:
-        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Kapital Corp, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
+        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Keystone Technologies, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -289,7 +289,7 @@ export class CompanyService {
     {
       id: '8',
       logo: '/images/company/company_6.png',
-      title: 'Kapital Corp ',
+      title: 'Keystone Technologies ',
       subtitle:
         'Innovating solutions for efficient infrastructure and seamless logistics, ensuring the smooth movement of goods and people worldwide.',
       banner: '/images/transportation/Trading_banner.jpg',
@@ -300,19 +300,19 @@ export class CompanyService {
       paragraphone:
         'Empowering businesses and educators with cloud-based solutions that solve real-world challenges and scale with your vision.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Corp is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
+        'Keystone Technologies is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
       paragraphthree:
-        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Kapital Corp, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
+        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Keystone Technologies, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -320,7 +320,7 @@ export class CompanyService {
     {
       id: '9',
       logo: '/images/company/company_6.png',
-      title: 'Kapital Corp ',
+      title: 'Keystone Technologies ',
       subtitle:
         'Innovating solutions for efficient infrastructure and seamless logistics, ensuring the smooth movement of goods and people worldwide.',
       banner: '/images/transportation/Trading_banner.jpg',
@@ -331,19 +331,19 @@ export class CompanyService {
       paragraphone:
         'Empowering businesses and educators with cloud-based solutions that solve real-world challenges and scale with your vision.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Corp is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
+        'Keystone Technologies is a Sri Lankan technology company driven by innovation and a passion for solving real-world problems through smart, cloud-based software solutions. With nearly a decade of experience, we specialize in developing user-centric products that enhance productivity, streamline workflows, and empower both individuals and organizations to thrive in the digital age.',
       paragraphthree:
-        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Kapital Corp, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
+        'Our growing portfolio includes platforms like ezBiz, a mini-ERP for SMEs; LeapX, a versatile e-learning system; Hudlmo, a collaborative tool for virtual meetings and webinars; and Swisher, a hybrid SaaS/PaaS solution for rapid application development. At Keystone Technologies, we are committed to continuous innovation, intuitive design, and accessible technology—ensuring our users can work smarter, from anywhere in the world.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -351,30 +351,30 @@ export class CompanyService {
     {
       id: '10',
       logo: '/images/company/company_5.png',
-      title: 'Kapital Leisure Adventure',
+      title: 'Keystone Leisure & Adventure',
       subtitle:
-        'Kapital Leisure crafts unforgettable experiences that blend Sri Lanka’s natural beauty, rich culture, and sustainable luxury hospitality.',
+        'Keystone Leisure & Adventure crafts unforgettable experiences that blend Sri Lanka’s natural beauty, rich culture, and sustainable luxury hospitality.',
       banner: '/images/transportation/banner9.jpg',
       headerone: 'About',
       contentone: 'Elevating Leisure',
       contenttwo: 'with Authentic',
       contentthree: 'Sri Lankan Experiences',
       paragraphone:
-        'Kapital Leisure delivers world-class hospitality and immersive activities that connect guests to the heart of Sri Lanka’s vibrant culture and stunning landscapes.',
+        'Keystone Leisure & Adventure delivers world-class hospitality and immersive activities that connect guests to the heart of Sri Lanka’s vibrant culture and stunning landscapes.',
       cardparagraphthree: 'Visit Site',
-      link: 'https://www.kapitalcorp.lk/#/',
+      link: 'https://www.keystonetech.lk/',
       showCard: false,
       paragraphtwo:
-        'Kapital Leisure is dedicated to creating exceptional leisure experiences that celebrate Sri Lanka’s rich culture, natural beauty, and vibrant lifestyle. We develop and manage innovative destinations, resorts, and wellness retreats that blend luxury with authenticity, offering guests meaningful moments of relaxation, adventure, and cultural connection. As part of Sri Lanka’s most developed leisure industry, Kapital Leisure emphasizes sustainable tourism practices, supporting local communities and preserving the environment.',
+        'Keystone Leisure & Adventure is dedicated to creating exceptional leisure experiences that celebrate Sri Lanka’s rich culture, natural beauty, and vibrant lifestyle. We develop and manage innovative destinations, resorts, and wellness retreats that blend luxury with authenticity, offering guests meaningful moments of relaxation, adventure, and cultural connection. As part of Sri Lanka’s most developed leisure industry, Keystone Leisure & Adventure emphasizes sustainable tourism practices, supporting local communities and preserving the environment.',
       paragraphthree:
-        'Our portfolio includes eco-friendly resorts, curated wellness programs, and immersive cultural activities that cater to both international travelers and local enthusiasts. By combining world-class hospitality with genuine Sri Lankan warmth, Kapital Leisure strives to set new standards for leisure and recreation—making every visit unforgettable and inspiring a deeper appreciation for the island’s unique charm.',
+        'Our portfolio includes eco-friendly resorts, curated wellness programs, and immersive cultural activities that cater to both international travelers and local enthusiasts. By combining world-class hospitality with genuine Sri Lankan warmth, Keystone Leisure & Adventure strives to set new standards for leisure and recreation—making every visit unforgettable and inspiring a deeper appreciation for the island’s unique charm.',
       contact: {
         sectionLabel: 'Contact',
         title: 'Partner with a Team',
         subtitle: 'That Powers Innovation',
         description: 'From concept to launch, we are here to support your next big idea.',
         phone: '+94 11 259 9304',
-        email: 'info@kapitalcorp.lk',
+        email: 'info@keystonetech.lk',
         address: 'Marino Mall Tower, 6th Floor, 590 Galle Road, Colombo 03, Sri Lanka',
         image: '/images/company/contact.png',
       },
@@ -440,8 +440,8 @@ export class CompanyService {
       id: '14',
       logo: '/images/company/Group.png',  // Main logo
       cardlogo: '/images/company/logo.png',  // Special card logo
-      title: 'Kapital Strategic Holding',
-      subtitle: 'Kapital Strategic Holding connects industries, drives progress, and empowers growth through seamless, innovative solutions for partners and communities everywhere.',
+      title: 'Keystone Strategic Holdings',
+      subtitle: 'Keystone Strategic Holdings connects industries, drives progress, and empowers growth through seamless, innovative solutions for partners and communities everywhere.',
       banner: '/images/transportation/imagetwo.jpg',
       headerone: 'About',
       contentone: 'Innovating',
@@ -451,8 +451,8 @@ export class CompanyService {
       cardparagraphthree: 'Visit Site',
       link: '',
       showCard: true,
-      paragraphtwo: 'Kapital Strategic Holding is a leading Sri Lankan enterprise focused on driving innovation, operational excellence, and sustainable growth across diverse sectors. With expertise spanning media, technology, infrastructure, and advisory services, the company delivers tailored solutions that support development, empower communities, and enhance organizational performance.',
-      paragraphthree: 'At its core, Kapital Strategic Holding is guided by a commitment to innovation, collaboration, and long-term value creation. By integrating advanced technologies with strategic thinking, the company helps partners adapt to evolving challenges and seize new opportunities. Its people-centric approach nurtures talent, encourages forward-thinking, and drives progress that uplifts both industry and society. Known for reliability, integrity, and impact-driven leadership, Kapital Strategic Holding continues to shape Sri Lanka’s future, creating lasting change through smart solutions and visionary execution.',
+      paragraphtwo: 'Keystone Strategic Holdings is a leading Sri Lankan enterprise focused on driving innovation, operational excellence, and sustainable growth across diverse sectors. With expertise spanning media, technology, infrastructure, and advisory services, the company delivers tailored solutions that support development, empower communities, and enhance organizational performance.',
+      paragraphthree: 'At its core, Keystone Strategic Holdings is guided by a commitment to innovation, collaboration, and long-term value creation. By integrating advanced technologies with strategic thinking, the company helps partners adapt to evolving challenges and seize new opportunities. Its people-centric approach nurtures talent, encourages forward-thinking, and drives progress that uplifts both industry and society. Known for reliability, integrity, and impact-driven leadership, Keystone Strategic Holdings continues to shape Sri Lanka’s future, creating lasting change through smart solutions and visionary execution.',
       cardtitle: 'Sri Lanka’s Premier Digital Sports Broadcasting Platform',
       cardheading: 'Sri Lanka’s Premier Digital Sports Broadcasting Platform',
       cardsubtitle: 'Talent TV is Sri Lanka’s trusted digital platform dedicated to delivering live sports, exclusive athlete stories, and event highlights to fans nationwide. Bringing excitement and national pride together, Talent TV offers instant access to games, interviews, and behind-the-scenes action—all from anywhere, on any device. Visit our website at www.talenttv.lk for smooth streaming, expert commentary, and engaging fan interaction at your convenience. Talent TV ensures a seamless, reliable, and quality viewing experience, so you never miss the best of Sri Lankan sports and rising talent.',
