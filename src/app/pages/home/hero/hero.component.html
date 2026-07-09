@@ -1,12 +1,23 @@
 <div class="home relative overflow-hidden h-[110vh] flex flex-col justify-center items-center">
-  <div class="z-30 h-[110vh] cmb bg-fixed"></div>
-  <h1 class="z-40 text-center text-[40px] sm:text-[52px] leading-[53px] sm:leading-[82px] 2xl:text-[72px] 2xl:leading-[82px] gradient-header inter-bold">
-    Breaking Limits and <br />
-    Shaping New Realities
-  </h1>
-  <p class="z-40 mt-10 px-10 sm:px-60 text-center gradient-text sm:text-[20px]">
-    Welcome to Keystone Technologies, where visionary investments meet lasting partnerships while empowering businesses to grow, thrive, and shape the future together.
-  </p>
+  <video
+    class="z-30 absolute inset-0 h-full w-full object-cover opacity-60"
+    src="/images/home/hero.mp4"
+    poster="/images/home/cmb.png"
+    autoplay
+    loop
+    muted
+    playsinline
+  ></video>
+  <div class="z-35 absolute inset-0 bg-[#0F0E54]/10"></div>
+  <div class="z-40 relative mx-4 sm:mx-0 max-w-4xl bg-white/15 backdrop-blur-[2px] border border-white/30 rounded-3xl shadow-lg px-6 py-10 sm:px-16 sm:py-14 flex flex-col items-center">
+    <h1 class="text-center text-[32px] sm:text-[52px] leading-[38px] sm:leading-[82px] 2xl:text-[72px] 2xl:leading-[82px] gradient-header inter-bold drop-shadow-[0_2px_6px_rgba(255,255,255,0.9)]">
+      Breaking Limits and <br />
+      Shaping New Realities
+    </h1>
+    <p class="mt-6 sm:mt-10 text-center gradient-text sm:text-[20px] drop-shadow-[0_1px_4px_rgba(255,255,255,0.9)]">
+      Welcome to Keystone Technologies, where visionary investments meet lasting partnerships while empowering businesses to grow, thrive, and shape the future together.
+    </p>
+  </div>
 <div class="bottom-line z-40 absolute bottom-0 flex gap-2 justify-around w-full p-6 bg-white text-black text-[16px] sm:text-[18px]">
 
     <div class="z-40"><fa-icon class="m-3" [icon]="faCircleCheck"></fa-icon>Driving sustainable growth</div>
