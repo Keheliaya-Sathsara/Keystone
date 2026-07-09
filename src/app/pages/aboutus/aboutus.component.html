@@ -5,22 +5,22 @@
     <div class="overlay"></div>
     <div class="relative h-screen md:h-[110vh] flex flex-col justify-center px-4 sm:px-6 md:px-8 lg:px-30 items-center">
       <!-- Overlay -->
-      <div class="absolute z-10 bg-black opacity-50"></div>
+      <div class="absolute z-10 bg-[#F2F3F4] opacity-50"></div>
 
       <!-- Text Content -->
       <div class="z-20 text-center md:text-left w-full px-4 md:px-0">
         <!-- Heading -->
         <h1
-          class="text-3xl sm:text-4xl md:text-[40px] lg:text-[72px] text-white font-bold mb-4 md:absolute md:bottom-[28%] md:left-[10%]"
+          class="text-3xl sm:text-4xl md:text-[40px] lg:text-[72px] text-[#0F0E54] font-bold mb-4 md:absolute md:bottom-[28%] md:left-[10%]"
         >
           About Us
         </h1>
 
         <!-- Paragraph -->
         <p
-          class="text-sm sm:text-base md:text-base text-white md:absolute md:bottom-[15%] md:left-[10%] max-w-sm sm:max-w-md md:max-w-md"
+          class="text-sm sm:text-base md:text-base text-[#0F0E54] md:absolute md:bottom-[15%] md:left-[10%] max-w-sm sm:max-w-md md:max-w-md"
         >
-          Kapital Corp is a forward-thinking holding company dedicated to building, investing in, and empowering
+          Keystone Technologies is a forward-thinking holding company dedicated to building, investing in, and empowering
           businesses across diverse industries, creating lasting value and sustainable growth
         </p>
       </div>
@@ -29,13 +29,13 @@
 </div>
 
 <!-- about.component.html -->
-<section class="py-6 px-4 sm:py-8 sm:px-6 md:py-12 md:px-8 lg:py-16 lg:pt-32 lg:px-30 bg-black">
+<section class="py-6 px-4 sm:py-8 sm:px-6 md:py-12 md:px-8 lg:py-16 lg:pt-32 lg:px-30 bg-white">
   <!-- Logo Carousel -->
   <!-- <div class="flex justify-center items-center mb-8 sm:mb-12 md:mb-16">
-    <div class="slider w-full bg-black overflow-hidden">
+    <div class="slider w-full bg-white overflow-hidden">
       <div class="slider-track slider-animation flex gap-8 sm:gap-12 md:gap-16 p-8 sm:p-12 md:p-16">
         <div class="slide">
-          <a href="https://www.kapitalcorp.lk/" target="_blank">
+          <a href="https://www.keystonetech.lk/" target="_blank">
             <img
               src="/images/home/about-us/1.png"
               class="h-12 sm:h-14 md:h-16 grayscale-0 opacity-100 hover:opacity-50 hover:grayscale transition-all duration-200"
@@ -69,7 +69,7 @@
           </a>
         </div>
         <div class="slide">
-          <a href="https://www.kapitalcorp.lk/" target="_blank">
+          <a href="https://www.keystonetech.lk/" target="_blank">
             <img
               src="/images/home/about-us/5.png"
               class="h-12 sm:h-14 md:h-16 grayscale-0 opacity-100 hover:opacity-50 hover:grayscale transition-all duration-200"
@@ -77,7 +77,7 @@
           </a>
         </div>
         <div class="slide">
-          <a href="https://www.kapitalcorp.lk/" target="_blank">
+          <a href="https://www.keystonetech.lk/" target="_blank">
             <img
               src="/images/home/about-us/6.png"
               class="h-12 sm:h-14 md:h-16 grayscale-0 opacity-100 hover:opacity-50 hover:grayscale transition-all duration-200"
@@ -165,21 +165,21 @@
   <!-- Who We Are Section -->
   <div class="my-8 sm:my-12 md:my-16">
     <h2
-      class="mb-4 sm:mb-6 md:mb-8 text-white text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
+      class="mb-4 sm:mb-6 md:mb-8 text-[#0F0E54] text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
     >
       Who we are
     </h2>
     <h1
-      class="inter-bold text-white text-2xl sm:text-3xl md:text-[32px] leading-[32px] sm:leading-[36px] md:leading-[40px] mb-4"
+      class="inter-bold text-[#0F0E54] text-2xl sm:text-3xl md:text-[32px] leading-[32px] sm:leading-[36px] md:leading-[40px] mb-4"
     >
       Empowering Businesses, Enriching Lives,
       <br class="hidden sm:block" />
       and Shaping the Future.
     </h1>
     <p
-      class="mt-4 text-[#A1A1AA] text-sm sm:text-base md:text-[16px] mb-6 sm:mb-8 md:mb-10 inter-regular leading-relaxed"
+      class="mt-4 text-gray-600 text-sm sm:text-base md:text-[16px] mb-6 sm:mb-8 md:mb-10 inter-regular leading-relaxed"
     >
-      Kapital Corp is a diversified group of partnerships with a strong presence across multiple industries, including
+      Keystone is a diversified group of partnerships with a strong presence across multiple industries, including
       Transportation, BPO, Technology, and more. Established with a vision to drive sustainable growth and innovation,
       we are committed to delivering high-quality services, creating value for stakeholders, and contributing to
       economic progress. Our group thrives on collaboration, operational excellence, and a customer-first approach,
@@ -191,18 +191,18 @@
   <div class="my-8 sm:my-12 md:my-16 space-y-2 sm:space-y-3 md:space-y-4">
     <div
       *ngFor="let item of accordionItems; let i = index"
-      class="border border-t-1 border-b-1 border-l-0 border-r-0 border-white overflow-hidden"
+      class="border border-t-1 border-b-1 border-l-0 border-r-0 border-gray-200 overflow-hidden"
     >
       <div
         (click)="toggleAccordion(i)"
-        class="flex justify-between items-center p-3 sm:p-4 cursor-pointer bg-transparent hover:bg-gray-900 transition-colors duration-200"
+        class="flex justify-between items-center p-3 sm:p-4 cursor-pointer bg-transparent hover:bg-gray-100 transition-colors duration-200"
       >
         <h2
-          class="inter-bold text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] text-white pr-4"
+          class="inter-bold text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] text-[#0F0E54] pr-4"
         >
           {{ item.title }}
         </h2>
-        <div *ngIf="!item.isOpen" class="text-[#F3F4F6] flex-shrink-0">
+        <div *ngIf="!item.isOpen" class="text-gray-600 flex-shrink-0">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             class="h-5 w-5 sm:h-6 sm:w-6"
@@ -213,7 +213,7 @@
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
           </svg>
         </div>
-        <div *ngIf="item.isOpen" class="text-[#F3F4F6] flex-shrink-0">
+        <div *ngIf="item.isOpen" class="text-gray-600 flex-shrink-0">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             class="h-5 w-5 sm:h-6 sm:w-6"
@@ -228,7 +228,7 @@
 
       <div *ngIf="item.isOpen" class="p-3 sm:p-4 inter-regular bg-transparent border-t border-gray-200">
         <p
-          class="text-[#A1A1AA] text-sm sm:text-base md:text-[16px] leading-[24px] sm:leading-[26px] md:leading-[28px] mb-4 sm:mb-6"
+          class="text-gray-600 text-sm sm:text-base md:text-[16px] leading-[24px] sm:leading-[26px] md:leading-[28px] mb-4 sm:mb-6"
         >
           {{ item.content }}
         </p>
@@ -236,7 +236,7 @@
         <div class="flex justify-start">
           <button
             (click)="navigateToSeeMore(item.seeMoreLink)"
-            class="bg-[#EA0029] inter-regular text-sm sm:text-base md:text-[16px] leading-[28px] sm:leading-[32px] md:leading-[34px] text-white px-6 sm:px-8 py-2 rounded-2xl flex items-center cursor-pointer hover:bg-[#c50022] transition-colors duration-200"
+            class="bg-[#8B53FE] inter-regular text-sm sm:text-base md:text-[16px] leading-[28px] sm:leading-[32px] md:leading-[34px] text-white px-6 sm:px-8 py-2 rounded-2xl flex items-center cursor-pointer hover:bg-[#6f3fd4] transition-colors duration-200"
           >
             <span>see more</span>
             <svg
@@ -256,11 +256,11 @@
   </div>
 
   <!-- Chairman's Message Section -->
-  <div class="my-12 sm:my-16 md:my-20 overflow-hidden flex items-center bg-black text-white">
+  <div class="my-12 sm:my-16 md:my-20 overflow-hidden flex items-center bg-white text-[#0F0E54]">
     <div class="max-w-6xl mx-auto lg:max-w-[2000px] w-full">
       <div class="mb-6 sm:mb-8">
         <h3
-          class="text-white text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
+          class="text-[#0F0E54] text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
         >
           Chairman's Message
         </h3>
@@ -269,7 +269,7 @@
       <div class="flex flex-col lg:flex-row gap-6 sm:gap-8 lg:gap-0">
         <div class="w-full lg:w-[60%] xl:w-[60%] pr-0 lg:pr-8">
           <h2
-            class="text-2xl sm:text-3xl lg:text-3xl text-white leading-[32px] sm:leading-[36px] lg:leading-[40px] text-[28px] sm:text-[32px] font-bold mb-4 sm:mb-5"
+            class="text-2xl sm:text-3xl lg:text-3xl text-[#0F0E54] leading-[32px] sm:leading-[36px] lg:leading-[40px] text-[28px] sm:text-[32px] font-bold mb-4 sm:mb-5"
           >
             Reflections on Our Journey
             <br />
@@ -278,16 +278,16 @@
 
           <div class="space-y-4 sm:space-y-6">
             <p
-              class="text-sm sm:text-base text-[#A1A1AA] md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
+              class="text-sm sm:text-base text-gray-600 md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
             >
-              KapitalCorp was launched with the intention of building a new breed of Consultancy & Advisory ensemble
+              Keystone was launched with the intention of building a new breed of Consultancy & Advisory ensemble
               with longevity, adaptability and sustainability in focus. We bring unparallel value through our ability to
               Project Manage and Deliver from concept to reality, with an assurance that our clients and society benefit
               from our dedication to the high standards and attention to detail.
             </p>
 
             <p
-              class="text-sm sm:text-base text-[#A1A1AA] md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
+              class="text-sm sm:text-base text-gray-600 md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
             >
               Our Consultancy & Advisory Services are built through industry experience gained over decades of industry
               practices and a global view of disruptions, technology advancements and with acute capability of risk
@@ -296,16 +296,16 @@
             </p>
 
             <p
-              class="text-sm sm:text-base text-[#A1A1AA] md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
+              class="text-sm sm:text-base text-gray-600 md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
             >
-              At KapitalCorp our Clients are considered as members of our family. Hence our approach to our customers
+              At Keystone our Clients are considered as members of our family. Hence our approach to our customers
               and their requirements are with great care and consideration. Further, it is our belief that we take on a
               mentoring role wherein we would guide our clients to maximize their achievements and be conscious of their
               impact to the community at large.
             </p>
 
             <p
-              class="text-sm sm:text-base text-[#A1A1AA] md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
+              class="text-sm sm:text-base text-gray-600 md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
             >
               Our Partners form the backbone on which we build our plethora of service. Hence, it is our strong belief
               that we engage with them with fortitude and transparency, such that all stakeholders in any project are
@@ -313,9 +313,9 @@
             </p>
 
             <p
-              class="text-sm sm:text-base text-[#A1A1AA] md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
+              class="text-sm sm:text-base text-gray-600 md:text-[16px] leading-[22px] sm:leading-[24px] md:leading-[25px] inter-regular"
             >
-              At KapitalCorp we continue to foster and build a team of highly professional and competent members, who
+              At Keystone we continue to foster and build a team of highly professional and competent members, who
               will continuously engage with our clients and partners with the same spirit of civility. I wish to assure
               both our clients and partners of a fruitful journey with us where we will continuously strive to delight
               you.
@@ -331,11 +331,11 @@
               </h3>
             </div>
             <p
-              class="text-xs sm:text-sm font-semibold md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-[#A1A1AA]"
+              class="text-xs sm:text-sm font-semibold md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-gray-600"
             >
               Member of the Most Excellent
             </p>
-            <p class="text-xs md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-[#A1A1AA]">
+            <p class="text-xs md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-gray-600">
               Order of the British Empire
             </p>
           </div>
@@ -358,11 +358,11 @@
             </h3>
           </div>
           <p
-            class="text-xs sm:text-sm font-semibold md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-[#A1A1AA]"
+            class="text-xs sm:text-sm font-semibold md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-gray-600"
           >
             Member of the Most Excellent
           </p>
-          <p class="text-xs md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-[#A1A1AA]">
+          <p class="text-xs md:text-[12px] leading-[14px] sm:leading-[16px] md:leading-[16.8px] text-gray-600">
             Order of the British Empire
           </p>
         </div>
@@ -375,7 +375,7 @@
     <!-- Grid Layout -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
       <!-- Vision Card -->
-      <div class="p-4 sm:p-6 rounded-lg shadow-lg bg-[#161616]">
+      <div class="p-4 sm:p-6 rounded-lg shadow-lg bg-white border border-gray-100">
         <div class="flex items-center mb-4 sm:mb-6">
           <img
             class="w-[40px] sm:w-[45px] md:w-[50px] flex-shrink-0"
@@ -383,19 +383,19 @@
             alt="Vision icon"
           />
           <h3
-            class="ml-3 text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] text-white inter-bold"
+            class="ml-3 text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] text-[#0F0E54] inter-bold"
           >
             Vision
           </h3>
         </div>
-        <p class="text-sm sm:text-base md:text-[16px] text-[#A1A1AA] italic leading-relaxed">
+        <p class="text-sm sm:text-base md:text-[16px] text-gray-600 italic leading-relaxed">
           To be the foremost catalyst that drives innovation, promotes sustainability and economic growth in communities
           across operating markets.
         </p>
       </div>
 
       <!-- Mission Card -->
-      <div class="p-4 sm:p-6 rounded-lg shadow-lg bg-[#161616]">
+      <div class="p-4 sm:p-6 rounded-lg shadow-lg bg-white border border-gray-100">
         <div class="flex items-center mb-4 sm:mb-6">
           <img
             class="w-[30px] sm:w-[32px] md:w-[35px] flex-shrink-0"
@@ -403,12 +403,12 @@
             alt="Mission icon"
           />
           <h3
-            class="ml-3 text-white text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] font-bold"
+            class="ml-3 text-[#0F0E54] text-lg sm:text-xl md:text-[20px] leading-[32px] sm:leading-[36px] md:leading-[40px] font-bold"
           >
             Mission
           </h3>
         </div>
-        <p class="text-sm sm:text-base md:text-[16px] text-[#A1A1AA] italic leading-relaxed">
+        <p class="text-sm sm:text-base md:text-[16px] text-gray-600 italic leading-relaxed">
           Our mission is to comprehend the complex requirements of our clients and guide them to achieve sustainable and
           value driven implementations that are executed with optimal and precision managed delivery.
         </p>
@@ -417,9 +417,9 @@
   </div>
 
   <!-- Our Team Section -->
-  <div id="our-team" class="mb-8 my-8 sm:my-12 md:my-16 text-white inter-medium">
+  <div id="our-team" class="mb-8 my-8 sm:my-12 md:my-16 text-[#0F0E54] inter-medium">
     <h2
-      class="mb-4 sm:mb-6 text-white text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
+      class="mb-4 sm:mb-6 text-[#0F0E54] text-lg sm:text-xl md:text-[22px] leading-[28px] sm:leading-[32px] md:leading-[38px] inter-medium"
     >
       Our Group
     </h2>
@@ -427,7 +427,7 @@
       <!-- Text Block -->
       <div class="col-span-1 sm:col-span-2 lg:col-span-6 mb-6 sm:mb-8 lg:mb-0">
         <h3
-          class="text-[24px] sm:text-[28px] md:text-[30px] lg:text-[38px] text-white leading-[30px] sm:leading-[34px] md:leading-[38px] lg:leading-[42px] inter-bold p-2 pl-0 mb-4 sm:mb-6 max-w-xl"
+          class="text-[24px] sm:text-[28px] md:text-[30px] lg:text-[38px] text-[#0F0E54] leading-[30px] sm:leading-[34px] md:leading-[38px] lg:leading-[42px] inter-bold p-2 pl-0 mb-4 sm:mb-6 max-w-xl"
         >
           We are driven by a shared
           <br class="hidden sm:block" />
@@ -466,7 +466,7 @@
           />
           <div class="flex flex-col gap-1 p-3 sm:p-4">
             <h3 class="text-sm sm:text-base md:text-lg font-semibold">{{ member.name }}</h3>
-            <p class="text-gray-400 text-sm sm:text-base">{{ member.title }}</p>
+            <p class="text-gray-600 text-sm sm:text-base">{{ member.title }}</p>
           </div>
         </div>
       </ng-container>
@@ -474,7 +474,7 @@
   </div>
 
   <!-- Contact Section -->
-  <section id="contact" class="py-16 bg-black text-white">
+  <section id="contact" class="py-16 bg-white text-[#0F0E54]">
     <div class="mx-auto">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <!-- Left column -->
@@ -482,7 +482,7 @@
           <h2 class="text-3xl font-bold mb-2">Have something on your mind?</h2>
           <h3 class="text-3xl font-bold mb-8">Let's talk — we're here to help.</h3>
 
-          <p class="text-gray-400 mb-6">Or just reach out Manually</p>
+          <p class="text-gray-600 mb-6">Or just reach out Manually</p>
 
           <div class="flex items-center mb-4">
             <svg
@@ -517,7 +517,7 @@
                 d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
               />
             </svg>
-            <span>contactkapitalcorp.com</span>
+            <span>contact&#64;keystonetech.lk</span>
           </div>
         </div>
 
@@ -549,7 +549,7 @@
                   id="fullName"
                   formControlName="fullName"
                   placeholder="Enter your full name..."
-                  class="input-hover w-full bg-[#131313] border border-[#818181] rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-white focus:ring-1 focus:ring-white placeholder-white"
+                  class="input-hover w-full bg-white border border-gray-300 rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-[#8B53FE] focus:ring-1 focus:ring-[#8B53FE] placeholder-gray-400 text-[#0F0E54]"
                 />
               </div>
               <div
@@ -588,7 +588,7 @@
                   id="email"
                   formControlName="email"
                   placeholder="Enter your email Address..."
-                  class="input-hover w-full bg-[#131313] border border-[#818181] rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-white focus:ring-1 focus:ring-white placeholder-white"
+                  class="input-hover w-full bg-white border border-gray-300 rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-[#8B53FE] focus:ring-1 focus:ring-[#8B53FE] placeholder-gray-400 text-[#0F0E54]"
                 />
               </div>
               <div
@@ -610,7 +610,7 @@
               <!-- <div class="flex-shrink-0">
                   <select
                     formControlName="selectedCountry"
-                    class= "inline-flex items-center bg-black border border-[#818181] rounded-l-[25px] px-3 py-3 focus:ring-1 text-white"
+                    class= "inline-flex items-center bg-white border border-gray-300 rounded-l-[25px] px-3 py-3 focus:ring-1 text-[#0F0E54]"
 
                   >
                     <option value="+1">🇺🇸 +1 </option>
@@ -650,7 +650,7 @@
                     height="h-5 w-5 text-gray-500"
                     viewBox="0 -960 960 960"
                     width="20px"
-                    fill="#FFFFFF"
+                    fill="#6B7280"
                   >
                     <path
                       stroke-linecap="round"
@@ -665,7 +665,7 @@
                   id="phone"
                   formControlName="phoneNumber"
                   placeholder="(000)000-0000"
-                  class="input-hover w-full bg-[#131313] border border-[#818181] rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-white focus:ring-1 focus:ring-white placeholder-white"
+                  class="input-hover w-full bg-white border border-gray-300 rounded-[25px] py-3 pl-10 pr-3 focus:outline-none focus:border-[#8B53FE] focus:ring-1 focus:ring-[#8B53FE] placeholder-gray-400 text-[#0F0E54]"
                 />
               </div>
               <!-- </div> -->
@@ -692,7 +692,7 @@
                   formControlName="message"
                   placeholder="Enter your main text here..."
                   rows="6"
-                  class="input-hover w-full bg-[#131313] border border-[#818181] rounded-[25px] py-3 px-3 focus:outline-none focus:border-white focus:ring-1 focus:ring-white placeholder-white"
+                  class="input-hover w-full bg-white border border-gray-300 rounded-[25px] py-3 px-3 focus:outline-none focus:border-[#8B53FE] focus:ring-1 focus:ring-[#8B53FE] placeholder-gray-400 text-[#0F0E54]"
                 ></textarea>
                 <div class="text-xs text-gray-500 mt-1 text-right">
                   {{ contactForm.get('message')?.value?.length || 0 }}/500
@@ -715,10 +715,10 @@
                 type="checkbox"
                 id="agreeTerms"
                 formControlName="agreeTerms"
-                class="rounded bg-[#131313] border-white text-red-600 focus:ring-0"
+                class="rounded bg-white border-gray-300 text-[#8B53FE] focus:ring-0"
               />
               <label for="agreeTerms" class="ml-2 text-sm">
-                I hereby agree to your <a href="#" class="text-red-600">Privacy Policy</a> terms.
+                I hereby agree to your <a href="#" class="text-[#8B53FE]">Privacy Policy</a> terms.
               </label>
             </div>
             <div
@@ -741,7 +741,7 @@
             <button
               type="submit"
               [disabled]="contactForm.invalid || formSubmitting"
-              class="w-full bg-red-600 hover:bg-red-700 text-white font-medium py-3 px-4 rounded-[25px] flex items-center justify-center transition duration-300"
+              class="w-full bg-[#8B53FE] hover:bg-[#6f3fd4] text-white font-medium py-3 px-4 rounded-[25px] flex items-center justify-center transition duration-300"
             >
               <span *ngIf="!formSubmitting" class="flex items-center">
                 Submit Request
@@ -778,4 +778,4 @@
     </div>
   </section>
 </section>
-<!-- <hr class="border-t border-white border-b-[1px] border-[#E9ECF633]" /> -->
+<!-- <hr class="border-t border-gray-200 border-b-[1px] border-[#E9ECF633]" /> -->

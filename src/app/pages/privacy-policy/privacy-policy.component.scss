@@ -10,15 +10,15 @@
   align-items: center;
   justify-content: center;
   min-height: 60vh;
-  color: #fff;
+  color: #0F0E54;
   padding: 2rem;
 }
 
 .spinner {
   width: 40px;
   height: 40px;
-  border: 4px solid #333;
-  border-top: 4px solid #ea0a2a;
+  border: 4px solid #e5e5e5;
+  border-top: 4px solid #8B53FE;
   border-radius: 50%;
   animation: spin 1s linear infinite;
   margin-bottom: 1rem;
@@ -31,10 +31,10 @@
 
 .header-section {
   position: relative;
-  background: radial-gradient(ellipse at top, #ea0a2a80 -11%, #00000000 50%);
+  background: radial-gradient(40.55% 80% at 50% 0%, rgba(139, 83, 254, 0.16) 0%, rgba(242, 243, 244, 0) 80%);
   width: 100vw;
   margin: 0 calc(50% - 50vw);
-  background-color: #000;
+  background-color: #F2F3F4;
   padding: 4rem 0 6rem;
   overflow: hidden;
   text-align: center;
@@ -48,7 +48,7 @@
 
 .header-content h1 {
   font-size: clamp(2rem, 5vw, 3.5rem);
-  color: #fff;
+  color: #0F0E54;
   font-weight: 700;
   letter-spacing: -0.025em;
   padding-top: 2rem;
@@ -56,7 +56,7 @@
 }
 
 .last-updated {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(15, 14, 84, 0.75);
   font-size: clamp(0.9rem, 2vw, 1.125rem);
   font-weight: 500;
 }
@@ -75,7 +75,7 @@
   display: block;
   width: calc(100% + 1.3px);
   height: 60px;
-  fill: #111;
+  fill: #F2F3F4;
 }
 
 .main-content {
@@ -94,7 +94,7 @@
 
 .intro-text {
   font-size: clamp(0.95rem, 2.5vw, 1.125rem);
-  color: #fff;
+  color: #0F0E54;
   margin: 0 auto;
   line-height: 1.7;
   font-weight: 500;
@@ -108,27 +108,27 @@
 }
 
 .section-card {
-  background: rgba(20, 20, 20, 0.9);
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 12px;
-  border: 1px solid #333;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 4px 20px rgba(15, 14, 84, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .section-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 30px rgba(234, 10, 42, 0.15);
+  box-shadow: 0 8px 30px rgba(139, 83, 254, 0.15);
 }
 
 .card-header {
   padding: clamp(1rem, 2.5vw, 1.5rem) clamp(1.25rem, 3vw, 2rem);
-  background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
-  border-bottom: 1px solid #333;
+  background: linear-gradient(135deg, #F2F3F4, #ffffff);
+  border-bottom: 1px solid #e5e5e5;
 }
 
 .card-header h2 {
   font-size: clamp(1.125rem, 2.5vw, 1.5rem);
-  color: #fff;
+  color: #0F0E54;
   margin: 0;
   font-weight: 600;
   display: flex;
@@ -140,7 +140,7 @@
   content: "";
   width: 4px;
   height: 24px;
-  background: #ea0a2a;
+  background: #8B53FE;
   border-radius: 2px;
   margin-right: 1rem;
   flex-shrink: 0;
@@ -154,7 +154,7 @@
   margin: 0 0 1.25rem;
   text-align: justify;
   line-height: 1.7;
-  color: #ccc;
+  color: #374151;
   font-size: clamp(0.875rem, 2vw, 1rem);
 }
 
@@ -167,7 +167,7 @@
 .section-content ul li {
   position: relative;
   margin-bottom: 0.75rem;
-  color: #ccc;
+  color: #374151;
   padding-left: 1.5rem;
   font-size: clamp(0.875rem, 2vw, 1rem);
   line-height: 1.6;
@@ -180,14 +180,14 @@
   top: 0.75rem;
   width: 6px;
   height: 6px;
-  background: #ea0a2a;
+  background: #8B53FE;
   border-radius: 50%;
   transform: translateY(-50%);
 }
 
 .contact-card {
-  background: rgba(20, 20, 20, 0.9);
-  border: 1px solid #444;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #e5e5e5;
 }
 
 .contact-info {
@@ -198,19 +198,19 @@
   display: flex;
   align-items: center;
   padding: clamp(1rem, 2.5vw, 1.25rem);
-  background: linear-gradient(135deg, #2c2c2c, #1c1c1c);
+  background: linear-gradient(135deg, #F2F3F4, #ffffff);
   border-radius: 8px;
-  border: 1px solid #444;
+  border: 1px solid #e5e5e5;
   transition: all 0.3s ease;
 }
 
 .contact-item:hover {
-  background: linear-gradient(135deg, #3c3c3c, #2c2c2c);
-  border-color: #555;
+  background: linear-gradient(135deg, #ffffff, #F2F3F4);
+  border-color: #d4d4d4;
 }
 
 .email-link {
-  color: #fff;
+  color: #0F0E54;
   text-decoration: none;
   font-weight: 600;
   font-size: clamp(0.95rem, 2.2vw, 1.125rem);
@@ -218,7 +218,7 @@
 }
 
 .email-link:hover {
-  color: #ea0a2a;
+  color: #8B53FE;
   text-decoration: underline;
 }
 
@@ -226,13 +226,13 @@
   margin-top: 4rem;
   padding: 2rem 0;
   text-align: center;
-  background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
-  color: #fff;
-  border-top: 1px solid #333;
+  background: linear-gradient(135deg, #F2F3F4, #ffffff);
+  color: #0F0E54;
+  border-top: 1px solid #e5e5e5;
 }
 
 .footer-text {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(15, 14, 84, 0.7);
   font-size: clamp(0.8rem, 1.8vw, 0.9rem);
   margin: 0;
   font-weight: 500;
@@ -242,7 +242,7 @@
   position: fixed;
   bottom: clamp(20px, 4vw, 30px);
   right: clamp(20px, 4vw, 30px);
-  background: linear-gradient(135deg, #ea0a2a, #c8082a);
+  background: linear-gradient(135deg, #8B53FE, #6f3fd4);
   color: #fff;
   width: clamp(45px, 8vw, 50px);
   height: clamp(45px, 8vw, 50px);
@@ -252,7 +252,7 @@
   justify-content: center;
   font-size: clamp(16px, 3vw, 20px);
   cursor: pointer;
-  box-shadow: 0 4px 12px rgba(234, 10, 42, 0.4);
+  box-shadow: 0 4px 12px rgba(139, 83, 254, 0.4);
   transition: all 0.3s ease;
   z-index: 1000;
   text-decoration: none;
@@ -261,8 +261,8 @@
 
 .back-to-top:hover {
   transform: translateY(-3px) scale(1.05);
-  box-shadow: 0 6px 20px rgba(234, 10, 42, 0.6);
-  border-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 6px 20px rgba(139, 83, 254, 0.6);
+  border-color: rgba(15, 14, 84, 0.2);
 }
 
 @keyframes fadeIn {
@@ -356,8 +356,8 @@
 }
 
 @media (prefers-contrast: high) {
-  .section-card { border: 2px solid #fff; }
-  .card-header h2::before, .section-content ul li::before { background: #fff; }
+  .section-card { border: 2px solid #0F0E54; }
+  .card-header h2::before, .section-content ul li::before { background: #0F0E54; }
 }
 
 @media print {

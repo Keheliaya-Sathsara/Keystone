@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "kapital-corp": {
+    "keystone-technologies": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/kapital-corp",
+            "outputPath": "dist/keystone-technologies",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "kapital-corp:build:production"
+              "buildTarget": "keystone-technologies:build:production"
             },
             "development": {
-              "buildTarget": "kapital-corp:build:development"
+              "buildTarget": "keystone-technologies:build:development"
             }
           },
           "defaultConfiguration": "development"
