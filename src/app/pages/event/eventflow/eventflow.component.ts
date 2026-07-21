@@ -30,12 +30,12 @@ export class EventflowComponent implements OnInit {
     this.eventflows = {
       '1': {
         banner: '/images/event/eventpages/keystoneevent.jpg',
-        title: 'Keystone Trophy (Entire Group Event)',
+        title: 'Kapital Trophy (Entire Group Event)',
         subtitle: 'Mon, Oct 14, 2024, 7:30 PM (+0530)',
-        heading: 'Keystone Trophy – The Ultimate Cricket Showdown!',
+        heading: 'Kapital Trophy – The Ultimate Cricket Showdown!',
         isInPerson: true,
         contentone:
-          "Keystone proudly presents the Keystone Trophy, an exhilarating cricket tournament that brings together teams from across our group of companies. This event is more than just a game—it’s a celebration of teamwork, sportsmanship, and the unbreakable spirit of our Keystone family. Gear up for a thrilling competition as our talented players battle for glory, showcasing their skills, determination, and passion for cricket. Whether you're on the field or cheering from the sidelines, the Keystone Trophy promises an unforgettable experience filled with excitement, camaraderie, and championship moments! Stay tuned for match schedules, team lineups, and live updates. Let’s make this tournament one to remember!",
+          "Kapital proudly presents the Keystone Trophy, an exhilarating cricket tournament that brings together teams from across our group of companies. This event is more than just a game—it’s a celebration of teamwork, sportsmanship, and the unbreakable spirit of our Keystone family. Gear up for a thrilling competition as our talented players battle for glory, showcasing their skills, determination, and passion for cricket. Whether you're on the field or cheering from the sidelines, the Keystone Trophy promises an unforgettable experience filled with excitement, camaraderie, and championship moments! Stay tuned for match schedules, team lineups, and live updates. Let’s make this tournament one to remember!",
         galleryItems: [
           { src: '/images/event/eventpages/8.jpg', size: 'lg' },
           { src: '/images/event/eventpages/2.png', size: 'lg' },
@@ -51,12 +51,12 @@ export class EventflowComponent implements OnInit {
       },
       '2': {
         banner: '/images/event/eventpages/Christmas-2025/Bollywood-night.jpg',
-        title: 'Keystone Bollywood Night (Entire Group Event)',
+        title: 'Kapital Bollywood Night (Entire Group Event)',
         subtitle: 'Sun, Dec 15, 2024, 7.00 PM (+0530)',
-        heading: 'Keystone Bollywood Night – Xmas Stars In Bollywood!',
+        heading: 'Kapital Bollywood Night – Xmas Stars In Bollywood!',
         isInPerson: true,
         contentone:
-          'Keystone proudly presents the Keystone Bollywood Night, an unforgettable celebration of vibrant music, dazzling dance, and the timeless glamour of Bollywood! Step into a world of colors, rhythm, and star-studded elegance, where the magic of Hindi cinema comes to life. This electrifying event promises an evening filled with iconic Bollywood tunes, energetic dance performances, and plenty of laughter. Get ready to groove to the beats of your favorite songs, watch stunning choreographed routines, and perhaps even hit the dance floor yourself! As a special twist, everyone is invited to dress like your favorite Bollywood stars, channeling the glitz and glamour of the silver screen.',
+          'Kapital proudly presents the Keystone Bollywood Night, an unforgettable celebration of vibrant music, dazzling dance, and the timeless glamour of Bollywood! Step into a world of colors, rhythm, and star-studded elegance, where the magic of Hindi cinema comes to life. This electrifying event promises an evening filled with iconic Bollywood tunes, energetic dance performances, and plenty of laughter. Get ready to groove to the beats of your favorite songs, watch stunning choreographed routines, and perhaps even hit the dance floor yourself! As a special twist, everyone is invited to dress like your favorite Bollywood stars, channeling the glitz and glamour of the silver screen.',
         galleryItems: [
           { src: '/images/event/eventpages/Christmas-2025/1.png', size: 'xl' },
           { src: '/images/event/eventpages/Christmas-2025/4.png', size: 'lg' },
@@ -73,12 +73,12 @@ export class EventflowComponent implements OnInit {
       },
       '3': {
         banner: '/images/event/eventpages/Hallowen-night/Halloween-banner.png',
-        title: 'Keystone Halloween Night (Entire Group Event)',
+        title: 'Kapital Halloween Night (Entire Group Event)',
         subtitle: 'Sun, Oct 29, 2024, 7.00 PM (+0530)',
-        heading: 'Keystone Halloween Night 2024 – Festival Cheers',
+        heading: 'Kapital Halloween Night 2024 – Festival Cheers',
         isInPerson: true,
         contentone:
-          'Keystone proudly presents the Keystone Halloween Night 2024—a night where the eerie meets the extraordinary. Step into a world of thrills, frights, and unforgettable fun as we transform the night into a hauntingly magical experience. Enjoy spine-tingling music, hair-raising dance performances, and a playlist that will have you dancing till the witching hour. Whether youre conjuring up your most creative costume or reveling in the spooky atmosphere, this event is all about embracing the Halloween spirit and creating lasting memories. a night filled with thrills, chills, and unforgettable moments at Keystone Halloween Night 2024. a night of laughter, surprises, and bone-chilling fun that will leave you talking about it till next year’s frightful festivity.',
+          'Kapital proudly presents the Keystone Halloween Night 2024—a night where the eerie meets the extraordinary. Step into a world of thrills, frights, and unforgettable fun as we transform the night into a hauntingly magical experience. Enjoy spine-tingling music, hair-raising dance performances, and a playlist that will have you dancing till the witching hour. Whether youre conjuring up your most creative costume or reveling in the spooky atmosphere, this event is all about embracing the Halloween spirit and creating lasting memories. a night filled with thrills, chills, and unforgettable moments at Keystone Halloween Night 2024. a night of laughter, surprises, and bone-chilling fun that will leave you talking about it till next year’s frightful festivity.',
         galleryItems: [
           { src: '/images/event/eventpages/Hallowen-night/3.png', size: 'xl' },
           { src: '/images/event/eventpages/Hallowen-night/1.png', size: 'lg' },
@@ -94,12 +94,12 @@ export class EventflowComponent implements OnInit {
       },
       '4': {
         banner: '/images/event/eventpages/Christmas-2023/Christmas-2023-banner.jpg',
-        title: 'Keystone Christmas Party (Entire Group Event)',
+        title: 'Kapital Christmas Party (Entire Group Event)',
         subtitle: 'Sun, Dec 17, 2023, 7.00 PM (+0530)',
-        heading: 'Keystone Christmas Party 2023 – Festival Cheers',
+        heading: 'Kapital Christmas Party 2023 – Festival Cheers',
         isInPerson: true,
         contentone:
-          'Keystone proudly presents the Keystone Christmas Party 2023. Feel the rhythm of the season with lively music, electrifying dance performances, and a playlist that will have you singing and dancing all night long. Whether you are showcasing your best moves on the dance floor or simply soaking in the holiday vibes, this celebration is all about spreading joy and making memories.As a special touch, we invite everyone to dress in the classic Christmas colors—red and black—adding a touch of elegance and festive flair to the evening. So bring your holiday spirit, your best moves, and your brightest smiles for a night of laughter, celebration, and togetherness.',
+          'Kapital proudly presents the Keystone Christmas Party 2023. Feel the rhythm of the season with lively music, electrifying dance performances, and a playlist that will have you singing and dancing all night long. Whether you are showcasing your best moves on the dance floor or simply soaking in the holiday vibes, this celebration is all about spreading joy and making memories.As a special touch, we invite everyone to dress in the classic Christmas colors—red and black—adding a touch of elegance and festive flair to the evening. So bring your holiday spirit, your best moves, and your brightest smiles for a night of laughter, celebration, and togetherness.',
         galleryItems: [
           { src: '/images/event/eventpages/Christmas-2023/1.png', size: 'lg' },
           { src: '/images/event/eventpages/Christmas-2023/2.png', size: 'md' },
@@ -115,12 +115,12 @@ export class EventflowComponent implements OnInit {
       },
       '5': {
         banner: '/images/event/eventpages/Cricket-2023/Cricket-2023-banner.jpg',
-        title: 'Keystone Cricket Tournament 2023 (Entire Group Event)',
+        title: 'Kapital Cricket Tournament 2023 (Entire Group Event)',
         subtitle: 'Sun, May 21, 2023, 8.00 AM (+0530)',
-        heading: 'Keystone Cricket Tournament 2023 – The Ultimate Cricket Showdown!',
+        heading: 'Kapital Cricket Tournament 2023 – The Ultimate Cricket Showdown!',
         isInPerson: true,
         contentone:
-          'Keystone proudly presents the Keystone Cricket Tournament 2023, an exhilarating cricket tournament that brings together teams from across our group of companies. This event is more than just a game—it’s a celebration of teamwork, sportsmanship, and the unbreakable spirit of our Keystone family. Gear up for a thrilling competition as our talented players battle for glory, showcasing their skills, determination, and passion for cricket. Whether you are on the field or cheering from the sidelines, the Keystone Trophy promises an unforgettable experience filled with excitement, camaraderie, and championship moments! Stay tuned for match schedules, team lineups, and live updates. Let’s make this tournament one to remember!',
+          'Kapital proudly presents the Keystone Cricket Tournament 2023, an exhilarating cricket tournament that brings together teams from across our group of companies. This event is more than just a game—it’s a celebration of teamwork, sportsmanship, and the unbreakable spirit of our Keystone family. Gear up for a thrilling competition as our talented players battle for glory, showcasing their skills, determination, and passion for cricket. Whether you are on the field or cheering from the sidelines, the Keystone Trophy promises an unforgettable experience filled with excitement, camaraderie, and championship moments! Stay tuned for match schedules, team lineups, and live updates. Let’s make this tournament one to remember!',
         galleryItems: [
           { src: '/images/event/eventpages/Cricket-2023/2.png' },
           { src: '/images/event/eventpages/Cricket-2023/3.png' },
@@ -136,12 +136,12 @@ export class EventflowComponent implements OnInit {
       },
       '6': {
         banner: '/images/event/eventpages/avurudu/banner.jpg',
-        title: 'Keystone Awurudu Celebration 2025',
+        title: 'Kapital Awurudu Celebration 2025',
         subtitle: 'Fri, Apr 11, 2025, 8.00 AM (+0530)',
-        heading: 'Keystone Awurudu Celebration 2025 – Festival Cheers',
+        heading: 'Kapital Awurudu Celebration 2025 – Festival Cheers',
         isInPerson: true,
         contentone:
-          'Keystone Awurudu Celebration 2025 was a vibrant showcase of tradition, unity, and joy across Keystone. The event brought employees together in a colorful tribute to Sri Lankan New Year customs, filled with laughter, cultural pride, and heartfelt connections. Traditional games sparked friendly competition, while vibrant attire and authentic food added to the festive spirit. From the rhythm of the raban to the warmth of shared moments, every aspect of the celebration reflected the deep-rooted values of community and togetherness. The Keystone Awurudu Celebration wasn’t just a cultural event—it was a beautiful reminder of the strength and spirit that define the Keystone family.',
+          'Kapital Awurudu Celebration 2025 was a vibrant showcase of tradition, unity, and joy across Keystone. The event brought employees together in a colorful tribute to Sri Lankan New Year customs, filled with laughter, cultural pride, and heartfelt connections. Traditional games sparked friendly competition, while vibrant attire and authentic food added to the festive spirit. From the rhythm of the raban to the warmth of shared moments, every aspect of the celebration reflected the deep-rooted values of community and togetherness. The Keystone Awurudu Celebration wasn’t just a cultural event—it was a beautiful reminder of the strength and spirit that define the Keystone family.',
         galleryItems: [
           { src: '/images/event/eventpages/avurudu/IMG_8.png', size: 'lg' },
           { src: '/images/event/eventpages/avurudu/IMG_6.png', size: 'lg' },

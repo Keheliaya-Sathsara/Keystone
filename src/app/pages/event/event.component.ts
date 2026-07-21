@@ -41,7 +41,7 @@ export class EventComponent implements OnInit {
     {
       id: 1,
       type: 'Festival Event',
-      title: 'Keystone Awurudu Celebration 2025',
+      title: 'Kapital Awurudu Celebration 2025',
       date: 'Fri, Apr 11, 2025',
       time: '8.00 AM',
       timezone: '(+0530)',
@@ -54,7 +54,7 @@ export class EventComponent implements OnInit {
     {
       id: 2,
       type: 'Sport Event',
-      title: 'Keystone Trophy 2025 (Entire Group Event)',
+      title: 'Kapital Trophy 2025 (Entire Group Event)',
       date: 'Mon, Oct 14, 2024',
       time: '7:30 PM',
       timezone: '(+0530)',
@@ -67,7 +67,7 @@ export class EventComponent implements OnInit {
     {
       id: 3,
       type: 'Festival Event',
-      title: 'Keystone Bollywood Night 2024',
+      title: 'Kapital Bollywood Night 2024',
       date: 'Sun, Dec 15, 2024',
       time: '7:30 PM',
       timezone: '(+0530)',
@@ -80,7 +80,7 @@ export class EventComponent implements OnInit {
     {
       id: 4,
       type: 'Festival Event',
-      title: 'Keystone Halloween Night 2024',
+      title: 'Kapital Halloween Night 2024',
       date: 'Fri, Dec 5, 2024',
       time: '9:00 AM',
       timezone: '(+0530)',
@@ -93,7 +93,7 @@ export class EventComponent implements OnInit {
     {
       id: 5,
       type: 'Festival Event',
-      title: 'Keystone Christmas Party 2023',
+      title: 'Kapital Christmas Party 2023',
       date: 'Sun, Dec 17, 2023',
       time: '7:30 PM',
       timezone: '(+0530)',
@@ -106,7 +106,7 @@ export class EventComponent implements OnInit {
     {
       id: 6,
       type: 'Sport Event',
-      title: 'Keystone Cricket Tournament 2023',
+      title: 'Kapital Cricket Tournament 2023',
       date: 'Sun, May 21, 2023',
       time: '7:30 PM',
       timezone: '(+0530)',
